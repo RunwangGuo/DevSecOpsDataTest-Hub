@@ -194,6 +194,11 @@
 | 4    | [apache/zookeeper](https://github.com/apache/zookeeper)      | Apache ZooKeeper                                      | Java       |
 | 5    | [apache/doris](https://github.com/apache/doris)              | Apache Doris 是一个易于使用、高性能和统一的分析数据库 | Java       |
 | 6    | [dataease/dataease](https://github.com/dataease/dataease)    | 人人可用的开源数据可视化分析工具                      | Java       |
+| 7    | [apache/hive](https://github.com/apache/hive)                | Apache Hive                                           | Java       |
+| 8    | [apache/hbase](https://github.com/apache/hbase)              | Apache HBase                                          | Java       |
+| 9    | [apache/flink](https://github.com/apache/flink)              | Apache Flink                                          | Java       |
+| 10   | [apache/spark](https://github.com/apache/spark)              | 用于大规模数据处理的统一分析引擎                      | Scala      |
+| 11   | [apache/storm](https://github.com/apache/storm)              | Apache Storm                                          | Java       |
 
 #  测试
 
