@@ -85,6 +85,8 @@
 | 4    | [dahailinux/cyber-security-policy](https://github.com/dahailinux/cyber-security-policy) | 运维安全手册                                                 |            |
 | 5    | [EnnioX/IPWarden](https://github.com/EnnioX/IPWarden)        | IPWarden是一个IP资产风险巡查工具                             |            |
 | 6    | [HummerRisk/HummerRisk](https://github.com/HummerRisk/HummerRisk) | HummerRisk 是云原生安全平台，包括混合云安全治理和云原生安全检测 | Java       |
+| 7    | [Tencent/secguide](https://github.com/Tencent/secguide)      | 面向开发人员梳理的代码安全指南                               |            |
+| 8    | [luocfa/deny_login_ip](https://github.com/luocfa/deny_login_ip) | 获取暴力破解的对方ip，加入hosts黑名单                        | Python     |
 
 # 运维
 
@@ -182,7 +184,7 @@
 | 90   | [orbstack/orbstack](https://github.com/orbstack/orbstack)    | 适用于 macOS 的快速、轻便、简单的 Docker 容器                |            |
 | 91   | [cloudflare/pingora](https://github.com/cloudflare/pingora)  | 用于构建快速、可靠和可发展的网络服务的库                     | Rust       |
 | 92   | [songangweb/durl](https://github.com/songangweb/durl)        | 高性能短链接服务                                             | Go         |
-| 93   | [bongmu/OpsManage](https://github.com/bongmu/OpsManage)      |                                                              |            |
+| 93   | [bongmu/OpsManage](https://github.com/bongmu/OpsManage)      | 代码及应用部署CI/CD、资产管理CMDB、计划任务管理平台、SQL审核 | JavaScript |
 
 # 大数据
 
