@@ -68,6 +68,12 @@
 | 61   | [umijs/qiankun](https://github.com/umijs/qiankun)            | 快速、简单且完整的微前端解决方案                             | TypeScript |
 | 62   | [web-infra-dev/garfish](https://github.com/web-infra-dev/garfish) | 强大的微前端框架                                             | TypeScript |
 | 63   | [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) | 一个简单、高效、强大的微前端框架                             | CSS        |
+| 64   | [storybookjs/storybook](https://github.com/storybookjs/storybook) | Storybook 是一个用于独立构建 UI 组件和页面的前端研讨会       | TypeScript |
+| 65   | [single-spa/single-spa](https://github.com/single-spa/single-spa) | 用于轻松微前端的路由器                                       | JavaScript |
+| 66   | [jdorn/json-editor](https://github.com/jdorn/json-editor)    | 基于 JSON 模式的编辑器                                       | JavaScript |
+| 67   | [pig-mesh/pig](https://github.com/pig-mesh/pig)              | RBAC 权限管理系统                                            | Java       |
+| 68   | [aelassas/wexflow](https://github.com/aelassas/wexflow)      | .NET工作流引擎和自动化平台                                   | C#         |
+| 69   | [apache/incubator-fury](https://github.com/apache/incubator-fury) | 由 JIT 和零拷贝支持的极快的多语言序列化框架                  | Java       |
 
 # 安全
 
@@ -172,6 +178,7 @@
 | 88   | [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) | 带有看板的开源项目管理工具                                   | TypeScript |
 | 89   | [r12f/rnp](https://github.com/r12f/rnp)                      | 一个简单的云第 4 层 ping 工具                                | Rust       |
 | 90   | [orbstack/orbstack](https://github.com/orbstack/orbstack)    | 适用于 macOS 的快速、轻便、简单的 Docker 容器                |            |
+| 91   | [cloudflare/pingora](https://github.com/cloudflare/pingora)  | 用于构建快速、可靠和可发展的网络服务的库                     | Rust       |
 
 # 大数据
 
