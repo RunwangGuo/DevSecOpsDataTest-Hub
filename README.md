@@ -1,5 +1,5 @@
 # DevSecOpsDataTest Hub
-「开发、安全、运维、大数据、安全」平台汇总
+「开发、安全、运维、大数据、测试」平台汇总
 
 # 开发
 
@@ -77,13 +77,14 @@
 
 # 安全
 
-| #    | 存储库                                                       | 备注                                              | 语言       |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------- | ---------- |
-| 1    | [chaitin/xray](https://github.com/chaitin/xray)              | 一款完善的安全评估工具，支持常见 web 安全问题扫描 | Vue        |
-| 2    | [ AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) | 中国蚂蚁剑是一款跨平台的网站开源管理工具          | JavaScript |
-| 3    | [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) | 云安全态势管理 (CSPM)                             | JavaScript |
-| 4    | [dahailinux/cyber-security-policy](https://github.com/dahailinux/cyber-security-policy) | 运维安全手册                                      |            |
-| 5    | [EnnioX/IPWarden](https://github.com/EnnioX/IPWarden)        | IPWarden是一个IP资产风险巡查工具                  |            |
+| #    | 存储库                                                       | 备注                                                         | 语言       |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 1    | [chaitin/xray](https://github.com/chaitin/xray)              | 一款完善的安全评估工具，支持常见 web 安全问题扫描            | Vue        |
+| 2    | [ AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) | 中国蚂蚁剑是一款跨平台的网站开源管理工具                     | JavaScript |
+| 3    | [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) | 云安全态势管理 (CSPM)                                        | JavaScript |
+| 4    | [dahailinux/cyber-security-policy](https://github.com/dahailinux/cyber-security-policy) | 运维安全手册                                                 |            |
+| 5    | [EnnioX/IPWarden](https://github.com/EnnioX/IPWarden)        | IPWarden是一个IP资产风险巡查工具                             |            |
+| 6    | [HummerRisk/HummerRisk](https://github.com/HummerRisk/HummerRisk) | HummerRisk 是云原生安全平台，包括混合云安全治理和云原生安全检测 | Java       |
 
 # 运维
 
@@ -181,6 +182,7 @@
 | 90   | [orbstack/orbstack](https://github.com/orbstack/orbstack)    | 适用于 macOS 的快速、轻便、简单的 Docker 容器                |            |
 | 91   | [cloudflare/pingora](https://github.com/cloudflare/pingora)  | 用于构建快速、可靠和可发展的网络服务的库                     | Rust       |
 | 92   | [songangweb/durl](https://github.com/songangweb/durl)        | 高性能短链接服务                                             | Go         |
+| 93   | [bongmu/OpsManage](https://github.com/bongmu/OpsManage)      |                                                              |            |
 
 # 大数据
 
