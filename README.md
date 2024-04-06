@@ -188,7 +188,7 @@
 
 | #    | 存储库                                                       | 注释                                                  | 语言       |
 | ---- | ------------------------------------------------------------ | ----------------------------------------------------- | ---------- |
-| 1    | [apache/echarts](https://github.com/apache/echarts)          | Apache Superset 是一个数据可视化和数据探索平台        | TypeScript |
+| 1    | [apache/superset](https://github.com/apache/superset)        | Apache Superset 是一个数据可视化和数据探索平台        | TypeScript |
 | 2    | [apache/hadoop](https://github.com/apache/hadoop)            | Apache Hadoop                                         | Java       |
 | 3    | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | Apache DolphinScheduler 是现代数据编排平台            | Java       |
 | 4    | [apache/zookeeper](https://github.com/apache/zookeeper)      | Apache ZooKeeper                                      | Java       |
