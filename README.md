@@ -193,7 +193,7 @@
 | 5    | [locustio/locust](https://github.com/locustio/locust)        | 用纯 Python 编写可扩展的负载测试                             | Python     |
 | 6    | [metersphere/metersphere](https://github.com/metersphere/metersphere) | MeterSphere 一站式开源持续测试平台                           | Java       |
 | 7    | [baidu/dperf](https://github.com/baidu/dperf)                | dperf 是一款 100Gbps 网络负载测试仪                          | C          |
-| 8    | [comcast](https://github.com/tylertreat/comcast)             | 模拟糟糕的网络连接，以便您可以构建更好的系统                 | Go         |
+| 8    | [tylertreat/comcast](https://github.com/tylertreat/comcast)  | 模拟糟糕的网络连接，以便您可以构建更好的系统                 | Go         |
 
 
 
