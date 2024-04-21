@@ -185,6 +185,22 @@
 | 91   | [cloudflare/pingora](https://github.com/cloudflare/pingora)  | 用于构建快速、可靠和可发展的网络服务的库                     | Rust       |
 | 92   | [songangweb/durl](https://github.com/songangweb/durl)        | 高性能短链接服务                                             | Go         |
 | 93   | [bongmu/OpsManage](https://github.com/bongmu/OpsManage)      | 代码及应用部署CI/CD、资产管理CMDB、计划任务管理平台、SQL审核 | JavaScript |
+| 94   | [cloudflare/workerd](https://github.com/cloudflare/workerd)  | 为 Cloudflare Workers 提供支持的 JavaScript / Wasm 运行时    | C++        |
+| 95   | [wasmerio/winterjs](https://github.com/wasmerio/winterjs)    | 冬天来了...                                                  | JavaScript |
+| 96   | [fastly/js-compute-runtime](https://github.com/fastly/js-compute-runtime) | 用于构建 Fastly Compute 应用程序的 JavaScript SDK 和运行时   | C++        |
+| 97   | [awslabs/llrt](https://github.com/awslabs/llrt)              | LLRT（低延迟运行时）是一种实验性的轻量级 JavaScript 运行时，旨在满足对快速高效的无服务器应用程序不断增长的需求。 | JavaScript |
+| 98   | [vercel/edge-runtime](https://github.com/vercel/edge-runtime) | 开发、测试和定义边缘基础设施的运行时 Web API                 | TypeScript |
+| 99   | [oven-sh/bun](https://github.com/oven-sh/bun)                | 令人难以置信的快速 JavaScript 运行时、捆绑器、测试运行器和包管理器 – 全部合而为一 | Zig        |
+| 100  | [denoland/deno](https://github.com/denoland/deno)            | JavaScript 和 TypeScript 的现代运行时                        | Rust       |
+| 101  | [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - 一个简单、易于使用、优雅的开源个人云系统            | Go         |
+| 102  | [sytpb/chatgpt-wework-robot](https://github.com/sytpb/chatgpt-wework-robot) | 零代码、一键部署chatgpt到企业微信，参考VPN，速度快           | JavaScript |
+| 103  | [CodingCrush/WeeklyReport](https://github.com/CodingCrush/WeeklyReport) | 基于Flask的周报系统，快速docker开源部署                      | JavaScript |
+| 104  | [LiaoWenzhe/Aiops-Learning-Resources](https://github.com/LiaoWenzhe/Aiops-Learning-Resources) | 收集AIOPS（智能运维），时间序列，异常检测，关联分析，近似收敛，根因分析，数据挖掘，机器学习，深度学习 |            |
+| 105  | [Abyssal-Fish-Technology](https://github.com/Abyssal-Fish-Technology) | 深海鱼                                                       |            |
+| 106  | https://github.com/yangpeng14/DevOps                         | 自动化运维指南                                               | Python     |
+| 107  | [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | 为开发人员提供的方便的在线工具集合，具有出色的用户体验       | Vue        |
+| 108  | [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) | 开发人员的瑞士军刀                                           | C#         |
+|      |                                                              |                                                              |            |
 
 # 大数据
 
