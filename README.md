@@ -74,6 +74,7 @@
 | 67   | [pig-mesh/pig](https://github.com/pig-mesh/pig)              | RBAC 权限管理系统                                            | Java       |
 | 68   | [aelassas/wexflow](https://github.com/aelassas/wexflow)      | .NET工作流引擎和自动化平台                                   | C#         |
 | 69   | [apache/incubator-fury](https://github.com/apache/incubator-fury) | 由 JIT 和零拷贝支持的极快的多语言序列化框架                  | Java       |
+| 70   | [dannyhu926/phone_location](https://github.com/dannyhu926/phone_location) | 手机号码归属地数据库，运营商，邮编，区号                     | PHP        |
 
 # 安全
 
@@ -89,7 +90,9 @@
 | 8    | [luocfa/deny_login_ip](https://github.com/luocfa/deny_login_ip) | 获取暴力破解的对方ip，加入hosts黑名单                        | Python     |
 | 9    | [hacklcx/HFish](https://github.com/hacklcx/HFish)            | 安全、可靠、简单、免费的企业级蜜罐                           |            |
 | 10   | [momosecurity/FindSomething](https://github.com/momosecurity/FindSomething) | 基于chrome、firefox插件的被动式信息泄漏检测工具              | JavaScript |
-|      |                                                              |                                                              |            |
+| 11   | [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) | DevSecOps、ASPM、漏洞管理。一切都在一个平台上                | HTML       |
+| 12   | [infobyte/faraday](https://github.com/infobyte/faraday)      | 开源漏洞管理平台                                             | Python     |
+| 13   | [creditease-sec/insight2](https://github.com/creditease-sec/insight2) |                                                              | Python     |
 
 # 运维
 
@@ -209,6 +212,8 @@
 | 112  | [xormplus/xorm](https://github.com/xormplus/xorm)            | xorm是一个简单而强大的Go语言ORM库                            | Go         |
 | 113  | [beego/beego](https://github.com/beego/beego)                | beego 是一个用于 Go 编程语言的开源、高性能 Web 框架          | Go         |
 | 114  | [songangweb/mcache](https://github.com/songangweb/mcache)    | golang 的内存缓存库                                          | Go         |
+| 115  | [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | 整理开源的中文大语言模型，以规模缩小、可试点化部署、成本降低的模型为主，包括基础模型、垂直领域调整及应用、数据集与等教程 |            |
+| 116  | [spotbugs/sonar-findbugs](https://github.com/spotbugs/sonar-findbugs) | SonarQube 的 Spot Bugs 插件                                  | Java       |
 
 # 大数据
 
