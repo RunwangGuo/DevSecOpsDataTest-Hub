@@ -93,6 +93,8 @@
 | 11   | [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) | DevSecOps、ASPM、漏洞管理。一切都在一个平台上                | HTML       |
 | 12   | [infobyte/faraday](https://github.com/infobyte/faraday)      | 开源漏洞管理平台                                             | Python     |
 | 13   | [creditease-sec/insight2](https://github.com/creditease-sec/insight2) |                                                              | Python     |
+| 14   | [kubescape/kubescape](https://github.com/kubescape/kubescape) | Kubescape 是一个适用于 IDE、CI/CD 管道和集群的开源 Kubernetes 安全平台。它包括风险分析、安全性、合规性和错误配置扫描，为 Kubernetes 用户和管理员节省宝贵的时间、精力和资源 | Go         |
+| 15   | [DataDog/KubeHound](https://github.com/DataDog/KubeHound)    | Kubernetes 攻击图                                            | Go         |
 
 # 运维
 
@@ -214,6 +216,14 @@
 | 114  | [songangweb/mcache](https://github.com/songangweb/mcache)    | golang 的内存缓存库                                          | Go         |
 | 115  | [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | 整理开源的中文大语言模型，以规模缩小、可试点化部署、成本降低的模型为主，包括基础模型、垂直领域调整及应用、数据集与等教程 |            |
 | 116  | [spotbugs/sonar-findbugs](https://github.com/spotbugs/sonar-findbugs) | SonarQube 的 Spot Bugs 插件                                  | Java       |
+| 117  | [GerritCodeReview/gerrit](https://github.com/GerritCodeReview/gerrit) | Gerrit 代码审查                                              | Java       |
+| 118  | [welliamcao/OpsManage](https://github.com/welliamcao/OpsManage) | 自动化运维平台: 代码及应用部署CI/CD、资产管理CMDB、计划任务管理平台、SQL审核 | Python     |
+| 119  | [obgnail/typora_plugin](https://github.com/obgnail/typora_plugin) | Typora 插件，功能增强工具                                    | JavaScript |
+| 120  | [markyin0707/typora-activation](https://github.com/markyin0707/typora-activation) |                                                              |            |
+| 121  | [hywax/mafl](https://github.com/hywax/mafl)                  | 简约灵活的主页                                               | TypeScript |
+| 122  | [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) | 从命令行轻松快速地共享文件                                   | Go         |
+| 123  | [llaoj/gcopy](https://github.com/llaoj/gcopy)                | 针对不同设备的剪贴板同步服务，可以同步文本、屏幕截图和文件   | TypeScript |
+| 124  | [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) | 开源 cron 作业和后台任务监控服务，用 Python 和 Django 编写   | Python     |
 
 # 大数据
 
