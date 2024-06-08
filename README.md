@@ -75,6 +75,10 @@
 | 68   | [aelassas/wexflow](https://github.com/aelassas/wexflow)      | .NET工作流引擎和自动化平台                                   | C#         |
 | 69   | [apache/incubator-fury](https://github.com/apache/incubator-fury) | 由 JIT 和零拷贝支持的极快的多语言序列化框架                  | Java       |
 | 70   | [dannyhu926/phone_location](https://github.com/dannyhu926/phone_location) | 手机号码归属地数据库，运营商，邮编，区号                     | PHP        |
+| 71   | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 企业级 UI 设计语言和 React UI 库                             | TypeScript |
+| 72   | [ant-design/ant-motion](https://github.com/ant-design/ant-motion) | Ant Design 的 Animate 规格及组件                             | JavaScript |
+| 73   | [chvin/react-tetris](https://github.com/chvin/react-tetris)  | 使用 React、Redux、Immutable 编写俄罗斯方块                  | JavaScript |
+| 74   |                                                              |                                                              |            |
 
 # 安全
 
@@ -95,6 +99,8 @@
 | 13   | [creditease-sec/insight2](https://github.com/creditease-sec/insight2) |                                                              | Python     |
 | 14   | [kubescape/kubescape](https://github.com/kubescape/kubescape) | Kubescape 是一个适用于 IDE、CI/CD 管道和集群的开源 Kubernetes 安全平台。它包括风险分析、安全性、合规性和错误配置扫描，为 Kubernetes 用户和管理员节省宝贵的时间、精力和资源 | Go         |
 | 15   | [DataDog/KubeHound](https://github.com/DataDog/KubeHound)    | Kubernetes 攻击图                                            | Go         |
+| 16   | [Medicean/VulApps](https://github.com/Medicean/VulApps)      | 快速搭建各种漏洞环境(Various vulnerability environment)      | Shell      |
+| 17   |                                                              |                                                              |            |
 
 # 运维
 
@@ -224,6 +230,26 @@
 | 122  | [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) | 从命令行轻松快速地共享文件                                   | Go         |
 | 123  | [llaoj/gcopy](https://github.com/llaoj/gcopy)                | 针对不同设备的剪贴板同步服务，可以同步文本、屏幕截图和文件   | TypeScript |
 | 124  | [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) | 开源 cron 作业和后台任务监控服务，用 Python 和 Django 编写   | Python     |
+| 125  | [alexazhou/VeryNginx](https://github.com/alexazhou/VeryNginx) | 一个非常强大且友好的 nginx 基于 lua-nginx-module(openresty)，提供 WAF、控制面板和仪表板 | Lua        |
+| 126  | [obihann/archey-osx](https://github.com/obihann/archey-osx)  | 适用于 OS X 的 Archey 脚本克隆                               | Shell      |
+| 127  | [oldmanpushcart/greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy) | Java诊断工具                                                 | Java       |
+| 128  | [os-js/OS.js](https://github.com/os-js/OS.js)                | OS.js - JavaScript Web 桌面平台                              | JavaScript |
+| 129  | [meolu/walle-web](https://github.com/meolu/walle-web)        | walle - 瓦力 Devops开源项目代码部署平台                      | Python     |
+| 130  | [sohutv/cachecloud](https://github.com/sohutv/cachecloud)    | 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。 | Java       |
+| 131  | [github/gitignore](https://github.com/github/gitignore)      | 有用的 .gitignore 模板集合                                   |            |
+| 132  | [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) | 实用性开发者安全须知                                         |            |
+| 133  | [dreamhead/moco](https://github.com/dreamhead/moco)          | 开发过程中需要依赖一些接口，这些接口要么是搭建环境困难，要么是还没有实现，要么是交互比较复杂。这种情况下，使用 mock server 来 mock（模拟）这些接口，以便开发和测试能够正常进行。 | Java       |
+| 134  | [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) | 使用真实世界数据库的最新简单用户代理伪造器                   | Python     |
+| 135  | [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) | 如何用 C++ 编写计算机操作系统                                | C          |
+| 136  | [Tencent/WeFlow](https://github.com/Tencent/WeFlow)          | 微信团队基于tmt-workflow打造的一款跨平台、环境友好的Web开发者工作流工具 | JavaScript |
+| 137  | [Tencent/feflow](https://github.com/Tencent/feflow)          | 一个命令行工具，旨在改善前端工程师的工作流程和标准，由 TypeScript 提供支持 | TypeScript |
+| 138  | [reorx/httpstat](https://github.com/reorx/httpstat)          | 简化 curl 统计                                               | Python     |
+| 139  | [fex-team/styleguide](https://github.com/fex-team/styleguide) | 文档与源码编写风格                                           |            |
+| 140  | [Tencent/MSEC](https://github.com/Tencent/MSEC)              | 集群中的海量服务引擎（MSEC）由腾讯QQ团队开源，是一个后端开发运维引擎，包括RPC、名称查找、负载均衡、监控、发布、容量管理等功能。 | Java       |
+| 141  | [alisaifee/flask-limiter](https://github.com/alisaifee/flask-limiter) | 一个 Flask 的扩展库，它可以根据访问者的 IP 限制其访问频率、次数 | Python     |
+| 142  | [thx/RAP](https://github.com/thx/RAP)                        | Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理 | JavaScript |
+| 143  | [ajermakovics/jvm-mon](https://github.com/ajermakovics/jvm-mon) | 命令行模式的 JVM 监控                                        | Go         |
+| 144  |                                                              |                                                              |            |
 
 # 大数据
 
