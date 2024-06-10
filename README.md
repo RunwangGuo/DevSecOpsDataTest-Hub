@@ -297,7 +297,21 @@
 | 188  | [chubin/wttr.in](https://github.com/chubin/wttr.in)          | 一个 Python 实现的命令行查看天气工具                         | Python      |
 | 189  | https://github.com/apache/apisix                             | 一个云原生、高性能、可扩展的微服务 API 网关。它是基于 Nginx 和 etcd 来实现，和传统 API 网关相比，APISIX 具备动态路由和插件热加载，适合微服务体系下的 API 管理 | Lua         |
 | 190  | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | 个仓库包含了 DevOps（开发运维）常见、流行服务相关的面试问题和回答，推荐给从事运维的同学 | Python      |
-| 191  |                                                              |                                                              |             |
+| 191  | [neil3d/excel2json](https://github.com/neil3d/excel2json)    | C# 写的把 Excel 表转换成 json 的工具                         | C#          |
+| 192  | [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) | 一款在你编程时花式夸你的 VSCode 扩展插件。可以根据代码关键字，播放贴近代码意义的真人语音，并且有一个醒目的项目名字“彩虹屁” | JavaScript  |
+| 193  | [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os) | 基于树莓派的操作系统开发教程（还未完结）。你的树莓派在吃灰吗？把它插上电用来学习开发操作系统吧 | C           |
+| 194  | [yudai/gotty](https://github.com/yudai/gotty)                | 能够把终端执行的命令展示到网页上的工具                       | Go          |
+| 195  | [schenkd/nginx-ui](https://github.com/schenkd/nginx-ui)      | 在线修改 Nginx 配置的服务。总的来说还是能减少修改配置出错的概率，而且不用面对漆黑枯燥的命令行了 | Python      |
+| 196  | [vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) | 一个把单张静态照片转化成 3D 图片的项目。快来尝鲜啦，不要等朋友圈 3D 照片刷屏后才“后知后觉” | Python      |
+| 197  | [star-history/star-history](https://github.com/star-history/star-history) | 展示 GitHub 项目 Star 历史的在线工具。支持多个项目展示在同一个图表上 | TypeScript  |
+| 198  | [ntfstool/ntfstool](https://github.com/ntfstool/ntfstool)    | 一款为苹果电脑提供 NTFS 读写支持的免费工具。有了它就可以很方便的在苹果电脑上读写，从 Windows 系统拷贝数据的 U 盘和移动硬盘等 | JavaScript  |
+| 199  | [wei/socialify](https://github.com/wei/socialify)            | 一键自动生成 GitHub 仓库头图。很多 GitHub 开源项目的作者不会用 PS，想要制作一张项目推广图就很困难，Socialify 就是帮你解决这个头疼的问题。 | TypeScript  |
+| 200  | [TNK-Studio/lazykube](https://github.com/TNK-Studio/lazykube) | 支持鼠标操作和管理 K8s 的命令行工具。对比 k9s 命令行工具，可以不用去记那么多快捷键，直接用鼠标操作。解决公司不使用 rancher 和 dashboard 管理 K8s，只能通过堡垒机访问的场景。使用该工具只需要终端和鼠标，当然用到搜索功能时还是需要键盘的 | Go          |
+| 201  | [syncthing/syncthing](https://github.com/syncthing/syncthing) | 一个采用 Go 语言编写的免费、跨平台的文件同步工具。它不需要安装，只需要下载对应系统的压缩包解压后就可以直接运行和使用。拥有命令行、Web 和桌面程序多种操作模式，同时支持内网和互联网的文件同步，可以用来搭建私有网盘。又一个代替付费网盘的选择，如果考虑到昂贵的宽费用。可以把 syncthing 做为局域网下手机、电视和电脑共享文件的开源解决方案 | Go          |
+| 202  | [yihong0618/running_page](https://github.com/yihong0618/running_page) | 一个展示个人跑步主页的 Python 项目，GitHub Actions 管理自动同步跑步进程及自动生成新的页面 | Python      |
+| 203  | [apolloconfig/apollo](https://github.com/apolloconfig/apollo) | 携程开源的分布式配置中心。开箱即用理念发挥到极致，比如：服务器部分基于 Spring Boot 和 Spring Cloud 开发，运行方便无需额外的 Tomcat 应用容器。并且具备配置修改后即时生效、规范的权限、流程治理等特性，适用于微服务配置管理场景 | Java        |
+| 204  | [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework) | 腾讯开源的云原生一体化部署工具。一键将项目部署上云，不限制框架和语言 | JavaScript  |
+| 205  | [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | 基于 Python 实现的网站归档平台。就是可以自动把网页（HTML、PDF、图片等）变成静态页面，下载到本地存储和管理的工具。可以用来做镜像站、档案馆、离线阅读等 | Python      |
 
 # 大数据
 
@@ -329,7 +343,8 @@
 | 7    | [baidu/dperf](https://github.com/baidu/dperf)                | dperf 是一款 100Gbps 网络负载测试仪                          | C          |
 | 8    | [tylertreat/comcast](https://github.com/tylertreat/comcast)  | 模拟糟糕的网络连接，以便您可以构建更好的系统                 | Go         |
 | 9    | [alipay/SoloPi](https://github.com/alipay/SoloPi)            | 一个不需要连接电脑、非侵入式的 Android 自动化工具。公测版拥有录制回放、性能测试、一机多控三项主要功能，能为测试开发人员节省宝贵时间。安卓版本多、终端型号多，一个成熟安卓应用的上线需要进行大量测试，而很多测试都是属于重复操作，通过此工具可以极大简化测试人员的工作量 | Java       |
-|      |                                                              |                                                              |            |
+| 10   | [nakabonne/ali](https://github.com/nakabonne/ali)            | 能够实时展示分析的压力测试工具。现在压测工具有很多，这款的亮点在于可以在终端实时展示压测过程的曲线。一条命令搞定启动：ali 地址 | Go         |
+| 11   | [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) | 适用于移动端应用的跨平台 UI 自动化框架。基于图像识别定位元素，可能都不需要一行代码就可以很方便地用它来测试 APP 或刷游戏 | Python     |
 
 
 
