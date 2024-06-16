@@ -101,7 +101,14 @@
 | 14   | [kubescape/kubescape](https://github.com/kubescape/kubescape) | Kubescape 是一个适用于 IDE、CI/CD 管道和集群的开源 Kubernetes 安全平台。它包括风险分析、安全性、合规性和错误配置扫描，为 Kubernetes 用户和管理员节省宝贵的时间、精力和资源 | Go         |
 | 15   | [DataDog/KubeHound](https://github.com/DataDog/KubeHound)    | Kubernetes 攻击图                                            | Go         |
 | 16   | [Medicean/VulApps](https://github.com/Medicean/VulApps)      | 快速搭建各种漏洞环境(Various vulnerability environment)      | Shell      |
-| 17   |                                                              |                                                              |            |
+| 17   | [vulhub/vulhub](https://github.com/vulhub/vulhub)            | 一个面向大众的开源漏洞环境集合。Vulhub 中包含了 180 余个丰富且真实的漏洞与其相应的环境，无需 Docker 知识即可通过一条简单的命令，跑起来一个存在某个漏洞的完整应用 | Dockerfile |
+| 18   | [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) | OWASP（开放式 Web 应用程序安全项目）速查表。项目由 OWASP 社区的安全专家编写，列举了多种安全问题和解决方案，从而更好地保护你的 Web 应用 | Python     |
+| 19   | [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)    | 一款静态应用程序安全测试(SAST)工具。它可以检测项目中是否包含密码、API Key、token 等信息，还能够轻松整合到 Git Hook 和 GitHub Action，实现提交代码时自动检测，通过告警和阻止 push 等方式，有效地防止敏感信息泄漏 | Go         |
+| 20   | [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) | 超快的 IP 端口扫描工具。异步的 TCP 端口扫描器，特点就是快。最快能在 5 分钟内扫描完整个互联网，但要小心别把本机打挂了 | C          |
+| 21   | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)  | 一款全面的容器安全扫描工具。目前最流行的开源容器镜像漏洞扫描工具，拥有速度快、精准度高、依赖检测、机密检查、对 CI 友好等特点。它不仅安装简单而且容易上手，仅需一条命令，即可发现镜像存在的安全漏洞 | Go         |
+| 22   | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)    | 黑客工具全家桶。该项目收录了各种黑客工具，包括破解密码、SQL 注入、钓鱼攻击、XSS、DDos 等 | Python     |
+| 23   | [neargle/my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) | 从零开始的 Kubernetes 攻防。该项目包含了作者在多处攻防场景，所遇到的云原生相关的漏洞挖掘和漏洞利用实例 | Shell      |
+| 24   |                                                              |                                                              |            |
 
 # 运维
 
@@ -312,6 +319,107 @@
 | 203  | [apolloconfig/apollo](https://github.com/apolloconfig/apollo) | 携程开源的分布式配置中心。开箱即用理念发挥到极致，比如：服务器部分基于 Spring Boot 和 Spring Cloud 开发，运行方便无需额外的 Tomcat 应用容器。并且具备配置修改后即时生效、规范的权限、流程治理等特性，适用于微服务配置管理场景 | Java        |
 | 204  | [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework) | 腾讯开源的云原生一体化部署工具。一键将项目部署上云，不限制框架和语言 | JavaScript  |
 | 205  | [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | 基于 Python 实现的网站归档平台。就是可以自动把网页（HTML、PDF、图片等）变成静态页面，下载到本地存储和管理的工具。可以用来做镜像站、档案馆、离线阅读等 | Python      |
+| 206  | [chanify/chanify](https://github.com/chanify/chanify)        | 基于 Go 实现的向 iOS 设备推送消息的服务。手机上安装好配套的 iOS 应用，然后以 Docker 的方式部署完服务，就可以通过一条命令推送指定消息到 APP 上 | Go          |
+| 207  | [thedevs-network/kutt](https://github.com/thedevs-network/kutt) | 免费开源的短链接服务。服务基于 Node.js+Express+React 实现，支持管理链接、自定义短链接、设置链接密码、访问统计等功能 | TypeScript  |
+| 208  | [voidcosmos/npkill](https://github.com/voidcosmos/npkill)    | 快速查找和轻松删除 node_modules 文件夹的工具。还在为 node_modules 占了很多磁盘空间而烦恼吗？还在手动找用不到的 node_modules 目录吗？快来试试 npkill 吧！轻松地删除 node_modules 目录 | TypeScript  |
+| 209  | [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 一个强大的 TUI（文本用户界面）框架。Bubble Tea 非常适合构建复杂交互的终端应用程序，同时还能让命令行程序变得多彩和炫酷 | Go          |
+| 210  | [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) | 用来展示 GitHub 个人首页被访问次数的项目                     | PHP         |
+| 211  | [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) | 一条命令就能将文件安全地传送到另外一台电脑上的工具。基于 PAKE（Password-Authenticated Key Exchange）协议实现文件在公网的加密传输，发送和接收均仅需一条命令 | Python      |
+| 212  | [nativefier/nativefier](https://github.com/nativefier/nativefier) | 能够把 Web 页面变成本地应用的命令行工具。通过 Electron+Chromium 把网站包装成本地 .app、.exe 等可执行文件 | TypeScript  |
+| 213  | [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) | 能够把多个平台上的数据，生成类似 GitHub 绿墙图像的工具。比如能够把发推的频率、扇贝单词打卡等情况生成类似 GitHub 绿墙图像 | Python      |
+| 214  | [alfiopuglisi/guietta](https://github.com/alfiopuglisi/guietta) | 用于制作简单 GUI 程序的 Python 库。换一种简单的方式写 GUI（图形用户界面）程序 | Python      |
+| 215  | [forem/forem](https://github.com/forem/forem)                | 用来构建社区的 Ruby 开源项目。一款开源、现成的论坛项目，能够让你快速搭建起来一个社区平台。国外知名的程序员社区 dev 用的就是它 | Ruby        |
+| 216  | [console-rs/indicatif](https://github.com/console-rs/indicatif) | 样式丰富的 Rust 终端进度条库                                 | Rust        |
+| 217  | [FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK)    | 开源的 GPS 自行车码表。功能齐全且拥有美观的界面，支持离线地图、显示轨迹等功能 | C           |
+| 218  | [erda-project/erda](https://github.com/erda-project/erda)    | 企业级一站式 PaaS 平台。基于 Kubernetes 以应用为中心的 DevOps 且支持微服务治理的多云架构，可以让复杂业务的开发、运维、监控和问题诊断变得更简单、更高效。能减轻使用不同的工具混搭技术底座和云平台的运维难度，同时还有漂亮、简单易用的界面设计 | Go          |
+| 219  | [ouqiang/gocron](https://github.com/ouqiang/gocron)          | 基于 Go 语言实现的轻量级定时任务管理平台                     | Go          |
+| 220  | [yyhsong/iDataV](https://github.com/yyhsong/iDataV)          | 大屏数据可视化项目集合                                       | JavaScript  |
+| 221  | [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) | 适用于 macOS 和 iOS 的 RSS 阅读器                            | Swift       |
+| 222  | [koalaman/shellcheck](https://github.com/koalaman/shellcheck) | Shell 静态分析工具。写过 shell 脚本的人，应该都经历过运行调试脚本的情况。有了 shellcheck 无需运行就能发现 sh/bash 的语法、类型等错误 | Haskell     |
+| 223  | [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) | 图像超分辨率模型，修复漫画图像的效果惊艳。通过 AI 技术将低分辨率、模糊的图像修复成高清图像，可用于图像放大和提升质量 | Python      |
+| 224  | [brainix/pottery](https://github.com/brainix/pottery)        | 以 Python 的方式操作 Redis 的库。忘记那些 Redis 命令吧，只要你知道如何使用 Python 字典，那么你就会用这个库操作 Redis | Python      |
+| 225  | [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO)        | 快速构建 Web 应用的 Python 工具。通过该项目你可在不写 HTML、CSS、JS 代码的前提下，仅用 Python 快速完成一个包含数据展示、表单的小型 Web 应用页面 | Python      |
+| 226  | [toml-lang/toml](https://github.com/toml-lang/toml)          | 更易读和易于维护的配置文件格式。如果你厌倦了 INI 的局限性、层层嵌套的 JSON 和 YAML 令人心惊胆战的缩进语法，不妨给 TOML 一个机会，它支持多种数据类型、抛弃了缩进和嵌套，而且众多流行编程语言都有对应的库 |             |
+| 227  | [air-verse/air](https://github.com/air-verse/air)            | 有代码变动就会自动重启服务的 Go 工具。在开发 Go Web 项目时，每次修改后都需要手动编译、重启服务，这个工具会在文件和目录发生变动后，自动编译并重启服务，大大提高了开发效率 | Go          |
+| 228  | [juicedata/juicefs](https://github.com/juicedata/juicefs)    | 高性能 POSIX 共享文件系统。像使用本地存储一样高效使用海量云端存储，可同时被多台主机同时挂载读写 | Go          |
+| 229  | [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) | 适用于 macOS 的免费 RSS 订阅工具                             | Objective-C |
+| 230  | [life4/textdistance](https://github.com/life4/textdistance)  | 计算文本距离的常用算法库。包含计算文本相似度、多样性、编辑距离、压缩等多种算法，所有算法均采用 Python 实现，容易理解调用方便 | Python      |
+| 231  | [phodal/microfrontends](https://github.com/phodal/microfrontends) | 《微前端的那些事儿》 将 Web 应用由单一的单体应用，转变为多个小型前端应用聚合为一的应用 |             |
+| 232  | [gorse-io/gorse](https://github.com/gorse-io/gorse)          | 由 Go 语言实现的推荐系统引擎。无需具备推荐系统相关知识，就能轻而易举地搭建推荐系统。开发者只需将用户信息、物料信息和互动数据（例如点赞、收藏等）导入系统，Gorse 就会自动训练模型为每个用户生成推荐 | Go          |
+| 233  | [docker/docker-py](https://github.com/docker/docker-py)      | 用 Python 操作 Docker 的库。Docker 官方出品的 Python 库，可以用来批量、自动管理镜像 | Python      |
+| 234  | [iredmail/iRedMail](https://github.com/iredmail/iRedMail)    | 开箱即用的免费邮件服务器。通过该项目可以快速在 Linux/BSD 上部署邮件服务，除此之外还拥有 Web 管理平台，数据均存储在服务器上，即保证了数据隐私还易于迁移和备份 | Shell       |
+| 235  | [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) | 用来展示个人信息的网站                                       | HTML        |
+| 236  | [eradman/entr](https://github.com/eradman/entr)              | 在文件有改动时自动触发任意命令的工具。采用 kqueue 或 inotify 事件通知接口监听文件改动事件，避免轮询造成的资源浪费，可用于实现自动编译、重启、测试、同步等功能 | C           |
+| 237  | [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP)        | 完全免费的远程桌面管理工具。此项目为远程桌面协议（RDP）的一个开源实现，通过它可以轻松实现 macOS 或 Linux 远程操作 Windows 桌面系统反之亦可，使用起来十分方便和流畅 | C           |
+| 238  | [cppla/ServerStatus](https://github.com/cppla/ServerStatus)  | 多服务器云监控。轻松监控多台服务器状态的工具，用于解决多个不同平台下的服务器状态监控问题 | C++         |
+| 239  | [apache/hertzbeat](https://github.com/apache/hertzbeat)      | 易用友好的云监控系统。适用于应用服务、数据库、网站、API、操作系统等监控的场景，可以帮助中小型团队快速搭建监控系统 | Java        |
+| 240  | [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) | 国内公共仓库镜像的集合。该项目包含开发常用的库、软件、系统镜像地址以及使用的方法 |             |
+| 241  | [myth984/wechat-report](https://github.com/myth984/wechat-report) | 自制微信聊天年度报告                                         | Vue         |
+| 242  | [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce)    | 一个 Go 写的轻量级社区。采用 Gin+Vue 实现的微社区，界面清爽拥有话题、发布短内容、评论等功能 | Go          |
+| 243  | [dianping/cat](https://github.com/dianping/cat)              | Java 开发的实时应用监控平台。美团开源的实时监控告警服务，能够帮助开发者快速定位线上的问题。功能丰富包括全量采集指标数据、分布式跨机房部署、性能分析报表等，还支持多种编程语言客户端 | Java        |
+| 244  | [nolar/kopf](https://github.com/nolar/kopf)                  | 用 Python 操作 Kubernetes 的框架。Kubernetes(k8s) 是一个容器编排系统，它本身提供了命令行工具(kubectl)，但有时无法实现较为复杂的操作。通过该项目可以用 Python 轻松完成，需要条件判断、事件触发等复杂的 k8s 操作 | Python      |
+| 245  | [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) | 本地备份微信聊天记录的工具。它能够将手机上的微信聊天记录，解密后保存在电脑上，支持查看、搜索、恢复微信聊天记录 | Go          |
+| 246  | [mingrammer/diagrams](https://github.com/mingrammer/diagrams) | 用 Python 代码图解系统架构。程序员在做技术方案的时候，系统架构图是必不可少的。该项目将绘制架构图时所需的图标，封装成了对应的类极易调用，文档还提供了丰富的示例，让你分分钟就能上手，轻松用 Python 快速绘制出一份精美且清晰的架构图，这样不仅能省去拖拽调整连线的步骤，而且代码还可以复用，以便应对不断迭代升级的架构 | Python      |
+| 247  | [GetPublii/Publii](https://github.com/GetPublii/Publii)      | 带 GUI 的静态网站生成工具。一款本地的静态网站 CMS 工具，有了它无需编程基础，即可通过图形化界面，轻松地创建个人博客、企业官网等，还支持一键发布到 GitHub Page、GitLab、Netlify 等网站 | HTML        |
+| 248  | [xbmc/xbmc](https://github.com/xbmc/xbmc)                    | 强大自由的媒体中心软件。这是一个媒体播放器软件，但折腾一下就是家庭媒体娱乐中心。它不仅支持播放本地视频，还能够安装各种插件以及播放网络存储设备(NAS)、投屏、直播、电视、播客等源。能够运行在 Linux、macOS、Windows、Android、iOS 等设备，界面支持中文 | C++         |
+| 249  | [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) | 腾讯开源的配置平台。面向资产及应用的企业级配置管理平台，拥有主机管理、组织架构管理、通用权限管理、操作审计等功能。该项目的代码审核很严格，此举不仅保证了项目的代码质量，还提高了代码的可读性，推荐阅读源码 | Go          |
+| 250  | [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go)        | 简单易用的 DDNS 工具。众所周知域名解析中域名对应的是固定 IP，但是本地机器的 IP 一般是动态的，所以无法完成域名解析实现公网访问。动态 DNS(DDNS) 技术就是用来解决动态 IP 的域名解析问题，该项目能够自动获取你本机的公网 IP，并自动更新到域名服务商，从而实现公网访问本地机器 | Go          |
+| 251  | [ccfos/nightingale](https://github.com/ccfos/nightingale)    | 开源的云原生监控系统。支持 Docker 等多种部署方式，集数据采集、监控告警、可视化为一体的企业级监控平台。借助高性能时序库，可以满足数亿时间线的采集、存储和告警分析的场景。该项目已在上千家企业部署落地，经历了各种生产环境的检验 | Go          |
+| 252  | [nocobase/nocobase](https://github.com/nocobase/nocobase)    | 易扩展的无代码开发平台。这个项目可以让你不写代码，仅通过点击和拖拽，分分钟搭建出协作和内部管理系统。项目还处于早期开发阶段，请勿用于生产环境 | TypeScript  |
+| 253  | [noear/solon](https://github.com/noear/solon)                | 一款 Java 轻量级应用开发框架。可用来快速开发 Java Web 项目，主框架仅 0.1 MB。类似 Python Flask 的微型框架，提倡按需组合插件 | Java        |
+| 254  | [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 优雅的 JSON 数据可视化工具。该项目不是简单的展示 JSON 数据，而是将其转化为类似脑图的形式，支持放大/缩小、展开/收缩、搜索节点、导出图片等操作，还可以快速部署成服务 | TypeScript  |
+| 255  | [Momo707577045/m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader) | m3u8 视频在线提取工具。m3u8 视频格式常用于直播服务，其原理是将完整的视频拆分成多个 .ts 视频碎片，其中 .m3u8 文件会详细记录每个视频片段的地址。视频播放时，会先读取 .m3u8 文件，再逐个下载播放 .ts 视频片段。该项目就是基于上述原理实现的 m3u8 视频提取工具，使用方便无需安装打开网页即可下载完整的视频 | JavaScript  |
+| 256  | [tldraw/tldraw](https://github.com/tldraw/tldraw)            | 一款实用的微型在线绘图工具。这是一个”麻雀虽小，五脏俱全“的绘图工具，支持插入便签、保存进度、生成图片、多人协作等实用的功能 | TypeScript  |
+| 257  | [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo)            | 一款开源在线相册应用。采用 PHP+MySQL 开发的管理照片的 Web 项目，它功能强大安装简单，拥有丰富的主题和灵活的插件，可轻松完成个性化定制。支持 iOS 和 Android 客户端，让你可以随时随地上传、管理照片 | PHP         |
+| 258  | [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)             | 可以把 PDF 文件变成可搜索文件的工具。它使用 Tesseract OCR 引擎，将 PDF 的内容识别成文本，然后给 PDF 文件增加 OCR 文本层。从而实现可搜索和复制 PDF 的内容，已支持 100 多种语言 | Python      |
+| 259  | [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) | 一种 JVM 的非侵入式运行期 AOP 解决方案。简单点说就是如果线上 Java 服务出现故障，需要加一条日志定位问题，通过该项目可以在不重新部署服务的情况下，完成增加日志的操作。它还支持线上故障模拟、请求录制和结果回放等功能 | Java        |
+| 260  | [github-linguist/linguist](https://github.com/github-linguist/linguist) | GitHub 官方开源的识别项目编程语言的库。该项目是 GitHub.com 网站上，用于检测开源项目编程语言占比的库 | Ruby        |
+| 261  | [atuinsh/atuin](https://github.com/atuinsh/atuin)            | 神奇的 shell 历史记录工具。该项目通过 SQLite 数据库存储 shell 历史，能够显示更多的 shell 历史、命令运行时间、执行时间等信息，还支持选择、过滤、统计、同步/备份等操作 | Rust        |
+| 262  | [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) | 基于 Web 的服务器图形界面。这是一款开源的服务器管理工具，让你可以通过 Web 界面轻松管理 Linux 服务器，支持配置防火墙、Web 终端、容器管理、查看系统日志等功能 | C           |
+| 263  | [osquery/osquery](https://github.com/osquery/osquery)        | 像数据库一样查询设备的工具。它将操作系统抽象成一个数据库，让用户可以通过 SQL 查询操作系统的运行情况，比如运行中的进程、网络连接、文件和用户。攻击者一般会在运行恶意程序后删掉程序，通过 osquery 可以轻松找到没有源文件的进程 | C++         |
+| 264  | [google/cadvisor](https://github.com/google/cadvisor)        | 一款由 Google 开源的容器监控工具。它可以实时统计容器运行时占用的资源，包括 CPU 利用率、内存使用量、网络传输等信息。提供了 Web 可视化页面，能方便用户分析和监控容器运行状态，支持包括 Docker 在内的几乎所有类型的容器 | Go          |
+| 265  | [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard)  | 一款完全自定义配置的浏览器起始页。基于 Vite+Vue3+TypeScript 构建的浏览器起始页，预设了多款简洁清爽的主题开箱即用，能够随心所欲地添加组件，编辑模式下可拖拽组件更改大小和位置，支持浏览器插件和网页两种使用方式 | Vue         |
+| 266  | [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | 一款可自由定制的企业级开源通信平台。功能丰富的通信平台，可自托管做为 Slack 的开源替代品。支持创建频道、团队和讨论等多种不同功能的群聊，消息支持图片、文件、视频和语音，拥有包括 Windows、Linux、macOS、Android 和 iOS 在内的多种客户端 | TypeScript  |
+| 267  | [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) | 可能是最小的编译器。仅用 1000 行 JavaScript 代码实现的迷你编译器，其中注释还占了一大半，实际代码只有 200 行左右。它虽然代码量不多，但完整地实现了编译器基本功能，可以用来学习编译器原理 | JavaScript  |
+| 268  | [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS)            | 完全免费的短网址服务。采用 PHP 编写的短网址服务，它完全开源可自行搭建服务，支持数据统计、地理位置、可视化等功能 | PHP         |
+| 269  | [xfangfang/Macast](https://github.com/xfangfang/Macast)      | 一款轻巧的投屏接收器。该项目可以让电脑接收来自手机的视频、图片和音乐投屏，支持手机上的主流视频和音乐软件，以及其它符合 DLNA 协议的软件。无打扰地运行在状态栏和菜单栏，适用于 Windows、macOS、Linux 操作系统 | Python      |
+| 270  | [reloadware/reloadium](https://github.com/reloadware/reloadium) | Python 热重载调试工具。在不重启程序的前提下，通过这个项目可以查看改动后、最新的 Python 代码运行效果，以及每行代码的耗时。有了它可以更高效地调试 Python 代码，强烈推荐在 PyCharm 和 VSCode 上使用 | Python      |
+| 271  | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 专为程序员准备的免费服务清单。现在虽然有大量免费的服务，但大多数开发者很难找到它们，这是一份免费服务(SaaS、PaaS、IaaS 等)和产品的列表 | HTML        |
+| 272  | [apache/incubator-answer](https://github.com/apache/incubator-answer) | 一款开源的问答社区。采用 Go 语言编写的问答社区，支持积分、提问、回答、标签等功能，部署简单 | Go          |
+| 273  | [snipe/snipe-it](https://github.com/snipe/snipe-it)          | 一款 IT 资产管理系统。该项目是基于 Laravel 8 构建的适用于中小型企业的 IT 资产管理系统，支持资产分配、生成二维码标签、资产审计、保修到期提醒等功能 | PHP         |
+| 274  | [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox)  | 一款匿名口令分享文本和文件的服务。该项目是基于 FastAPI+SQLite3 开发的文件分享服务，支持分享文件、口令提取文件等功能，无需注册即可完成文件提取 | Python      |
+| 275  | [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) | 中文个人独立博客网站合集。如果说中文独立博客的时代已经过去，那么至少还有这么一块地方，属于热爱自由的博主们 | JavaScript  |
+| 276  | [ben1234560/k8s_PaaS](https://github.com/ben1234560/k8s_PaaS) | 教你用 K8s 部署一套完整服务的教程。通过该教程你可以学习到如何部署 Kubernetes 集群，以及在此基础上搭建由 Apollo、Jenkins、Prometheus 等服务组成的完整的软件研发和部署平台 | Shell       |
+| 277  | [Lallassu/gorss](https://github.com/Lallassu/gorss)          | 一款用 Go 编写的命令行 RSS 阅读器。它简单易用隐蔽性强，支持预览内容、浏览器打开链接、自定义快捷键、主题、单词高亮等功能 | Go          |
+| 278  | [Platane/snk](https://github.com/Platane/snk)                | “吃光”你所有的 GitHub 贡献。它可以根据 GitHub 上的贡献图，自动生成蛇的行走路径，一口气吃光所有“绿块”，支持生成 gif 或 svg 格式的动图 | TypeScript  |
+| 279  | [assimon/dujiaoka](https://github.com/assimon/dujiaoka)      | PHP 写的开源自动售货系统。采用 Laravel+Bootstrap 实现的自动售卖虚拟产品的平台，比如兑换码、账号之类的数字商品，顾客付款后可以自动发货，已集成微信、支付宝、Paypal 等多种支付方式 | PHP         |
+| 280  | [pudo/dataset](https://github.com/pudo/dataset)              | 为懒人准备的操作数据库的 Python 库。它基于 SQLAlchemy 构建了一个简单的数据层，可以让查询、写入、更新数据库中的数据，就像读写 JSON 文件一样简单，支持 SQLite、PostgreSQL 和 MySQL 数据库 | Python      |
+| 281  | [distrochooser/distrochooser](https://github.com/distrochooser/distrochooser) | 帮你找到适合自己的 Linux 发行版。该网站通过询问一些问题，为你推荐符合你要求的 Linux 发行版，支持中文 | Python      |
+| 282  | [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel)    | 现代化、开源的 Linux 服务器运维管理面板。这是一款 Go 写的 Linux 服务器的在线管理系统，它安装简单、安全可靠，同时集成了 WordPress 等应用、域名绑定、SSL 证书配置、备份等功能，支持快速建站 | Go          |
+| 283  | [PlayEdu/PlayEdu](https://github.com/PlayEdu/PlayEdu)        | 一款 Java 写的内部培训系统。这是一款基于 SpringBoot+React 开发而成的视频培训系统，它界面清爽、交互流畅，支持上传资源、创建部门、添加学员、指派课程等功能，可用于企业和机构搭建内部培训平台 | Java        |
+| 284  | [dubinc/dub](https://github.com/dubinc/dub)                  | 功能丰富的短链接管理平台。采用 Next.js+Tailwind CSS 构建的短链接平台，可用于创建、追踪、分析短链接，支持地理位置统计、自定义域名、生成二维码等功能 | TypeScript  |
+| 285  | [Meituan-Dianping/Logan](https://github.com/Meituan-Dianping/Logan) | 面向终端的统一日志服务。由美团技术团队开源的一整套前端日志系统，包含客户端 SDK、日志处理和管理平台。它适用于移动端 APP、Web、小程序、IoT 等终端场景下的实时日志收集 | C           |
+| 286  | [winsw/winsw](https://github.com/winsw/winsw)                | 将可执行文件包装成 Windows 服务的工具。该项目可以将原本不支持开机启动的 Windows 应用，设置成开机自动启动，整个过程只需要两条命令 | C#          |
+| 287  | [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub)      | 好看的 GitHub 客户端。这是一款 C# 编写的 GitHub 客户端，采用 Fluent Design 设计，界面清爽且时尚，适用于 Windows 系统 | C#          |
+| 288  | [chrisant996/clink](https://github.com/chrisant996/clink)    | Windows 命令行增强工具。该项目可以让 Windows 原生的 cmd.exe 拥有类似 bash 一样强大的自动补全、历史记录、行编辑等功能，就像在 Linux 终端上一样 | C++         |
+| 289  | [orf/gping](https://github.com/orf/gping)                    | Rust 写的 ping 工具。该项目能够以折线图的方式，实时展示 ping 的结果，支持 Windows、Linux 和 macOS 操作系统 | Rust        |
+| 290  | [justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) | 通往架构师之路。这是一份教你如何成为架构师的学习指南         |             |
+| 291  | [docsifyjs/docsify](https://github.com/docsifyjs/docsify)    | 开箱即用的文档网站生成器。该项目可以帮你快速生成文档网站，开箱即用无需构建，写完文档即可发布。支持全文搜索、自定义主题、丰富的 API、Emoji 等实用功能 | JavaScript  |
+| 292  | [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) | 一份实用的 Linux 教程。不同于大而全的 Linux 教程，该项目的内容主要侧重于实用性，内容包括 Linux 常用命令、Linux 系统运维、软件运维、常用 shell 脚本等 | Shell       |
+| 293  | [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 一份 Linux 服务器安全指南。这是一份专注于保护非企业场景下的 Linux 服务器安全的操作指南，它虽然不够专业但对于个人来说足够了 |             |
+| 294  | [ljinkai/weekly](https://github.com/ljinkai/weekly)          | 独立开发产品变现周刊。关于独立开发者、产品变现相关内容的周刊 |             |
+| 295  | [isno/theByteBook](https://github.com/isno/theByteBook)      | 《深入架构原理与实践》。随着云计算的兴起，技术架构的关注点也从集群可用性治理，发展到云原生和 FinOps 成本管理。该书涵盖了网络、容器、网关、微服务与分布式、云原生、质量监测和成本管理方面的内容，帮助读者快速理清云时代下的技术架构体系 | JavaScript  |
+| 296  | [chaitin/SafeLine](https://github.com/chaitin/SafeLine)      | 一款简单好用的 Web 应用防火墙。该项目底层基于 Nginx 的 Web 网关，作为反向代理接入网络。采用智能语意分析算法，清洗来自黑客的恶意流量，保护你的网站不受黑客攻击。它安装简单、免费版功能够用，但项目仅开源了核心算法和底层引擎 | TypeScript  |
+| 297  | [typicode/json-server](https://github.com/typicode/json-server) | 仅需 30 秒、不用写代码就能模拟接口数据。这是一款小巧的接口模拟工具，它使用起来十分简单，只需创建 JSON 文件，然后一条命令就能快速启动接口服务 | JavaScript  |
+| 298  | [danbaixi/yunxiaozhi](https://github.com/danbaixi/yunxiaozhi) | 一款开源的校园教务查询微信小程序。该项目是由学生开发的智慧校园小程序，支持课程表查询、成绩查询、考试安排、空教室查询、水电查询等功能 | JavaScript  |
+| 299  | [docusealco/docuseal](https://github.com/docusealco/docuseal) | 开源的文件在线签署平台。这是一款用 Ruby 写的在线签署文件平台，它开箱即用、容易上手、移动端友好，支持拖拽的方式创建 PDF 表单、在线填写和签名、自动发送邮件、用户管理等功能 | Ruby        |
+| 300  | [zhanglun/lettura](https://github.com/zhanglun/lettura)      | 极简的开源 RSS 阅读器。这是一款基于 Tauri 开发的桌面 RSS 阅读器，它免费、无广告、界面清爽，适用于 macOS 和 Windows 操作系统 | TypeScript  |
+| 301  | [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) | Python 潮流周刊。这是一份由「豌豆花下猫」制作的每周更新的 Python 周刊，内容包括 Python 的精品文章、教程、开源项目、工具、视频和热门话题等 | Python      |
+| 302  | [byronka/minum](https://github.com/byronka/minum)            | 极简的 Java Web 框架。该项目是作者手撸的 Java Web 框架，它简约、零依赖、具有良好的性能，内置数据库、Web 服务器、模版引擎、日志等功能。如果你是一个 Java 新手，而且经常在各大 Web 框架中“迷失方向”，那你可以通过这个项目，快速上手 Web 开发并理清头绪 | HTML        |
+| 303  | [cheat/cheat](https://github.com/cheat/cheat)                | 一款交互式的“小抄”命令行工具。该项目可以创建、编辑、查看 *nix 系统命令的备忘录，比如常用命令的示例和解释 | Go          |
+| 304  | [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle)    | 一个简单的任务调度和运行平台。该项目是用 Node.js 写的 cron 替代品，它开箱即用、自带 Web 界面、无需数据库，提供了执行 shell 命令、实时统计、自动故障转移、自动重试、多时区等功能 | JavaScript  |
+| 305  |                                                              |                                                              |             |
+| 306  |                                                              |                                                              |             |
 
 # 大数据
 
@@ -329,6 +437,7 @@
 | 10   | [apache/spark](https://github.com/apache/spark)              | 用于大规模数据处理的统一分析引擎                             | Scala      |
 | 11   | [apache/storm](https://github.com/apache/storm)              | Apache Storm                                                 | Java       |
 | 12   | [heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes) | 大数据入门教程，该教程介绍了大数据常用技术栈的基础和核心知识。内容涵盖：Hadoop、Spark、Storm、HBase、Hive、ZooKeeper、Kafka 等 | Java       |
+| 13   | [wgzhao/Addax](https://github.com/wgzhao/Addax)              | 支持多种异构数据源离线同步工具。服务于大数据的 ETL 工具，可快速实现 MySQL、HDFS、Hive、HBase 等数据源之间的数据同步，主要用于离线采集各类数据到数据仓库或者大数据平台 | Java       |
 
 #  测试
 
@@ -345,6 +454,11 @@
 | 9    | [alipay/SoloPi](https://github.com/alipay/SoloPi)            | 一个不需要连接电脑、非侵入式的 Android 自动化工具。公测版拥有录制回放、性能测试、一机多控三项主要功能，能为测试开发人员节省宝贵时间。安卓版本多、终端型号多，一个成熟安卓应用的上线需要进行大量测试，而很多测试都是属于重复操作，通过此工具可以极大简化测试人员的工作量 | Java       |
 | 10   | [nakabonne/ali](https://github.com/nakabonne/ali)            | 能够实时展示分析的压力测试工具。现在压测工具有很多，这款的亮点在于可以在终端实时展示压测过程的曲线。一条命令搞定启动：ali 地址 | Go         |
 | 11   | [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) | 适用于移动端应用的跨平台 UI 自动化框架。基于图像识别定位元素，可能都不需要一行代码就可以很方便地用它来测试 APP 或刷游戏 | Python     |
+| 12   | [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount) | 用 Python 操作 selenium 的实战项目。该项目以全自动退出京东加入的店铺会员为例，介绍了 Python 自动化的知识和方案 | Python     |
+| 13   | [cypress-io/cypress](https://github.com/cypress-io/cypress)  | 基于 JavaScript 的下一代前端测试工具。主要用于浏览器端到端测试的自动化工具，端到端(E2E)测试就是站在用户的角度，模拟实际使用场景的测试方式。Cypress 目前已成主流浏览器端到端测试工具，它运行速度快、上手简单，支持图形化界面可实时观察执行情况，以及截屏和视频记录测试结果 | JavaScript |
+| 14   | [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | 简单好用的网站变更检测、监控和通知服务。基于 Flask+Selenium 构建的 Web 服务，可以在目标网站发生变化时发出通知，可用于监控商品降价、工作机会、版本发布、最新内容等 | Python     |
+| 15   | [SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) | 轻松管理 WebDriver 的 Python 库。经常写爬虫的小伙伴应该都遇到过找 WebDriver 路径的情况吧！用了这个项目，将无需一次又一次地重复寻找 WebDriver 在哪里啦 | Python     |
+| 16   | [jagt/clumsy](https://github.com/jagt/clumsy)                | 让 Windows 网络变差的工具。该项目是基于 WinDivert 实现的手动控制 Windows 网络情况的工具，它无需安装下载即用，可用于模拟网络延迟、节流、丢包等 | C          |
 
 
 
