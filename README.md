@@ -418,7 +418,7 @@
 | 302  | [byronka/minum](https://github.com/byronka/minum)            | 极简的 Java Web 框架。该项目是作者手撸的 Java Web 框架，它简约、零依赖、具有良好的性能，内置数据库、Web 服务器、模版引擎、日志等功能。如果你是一个 Java 新手，而且经常在各大 Web 框架中“迷失方向”，那你可以通过这个项目，快速上手 Web 开发并理清头绪 | HTML        |
 | 303  | [cheat/cheat](https://github.com/cheat/cheat)                | 一款交互式的“小抄”命令行工具。该项目可以创建、编辑、查看 *nix 系统命令的备忘录，比如常用命令的示例和解释 | Go          |
 | 304  | [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle)    | 一个简单的任务调度和运行平台。该项目是用 Node.js 写的 cron 替代品，它开箱即用、自带 Web 界面、无需数据库，提供了执行 shell 命令、实时统计、自动故障转移、自动重试、多时区等功能 | JavaScript  |
-| 305  |                                                              |                                                              |             |
+| 305  | [vuejs/vitepress](https://github.com/vuejs/vitepress)        | 由 Vite 和 Vue 提供支持的静态站点生成器                      | TypeScript  |
 | 306  |                                                              |                                                              |             |
 
 # 大数据
