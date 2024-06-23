@@ -459,8 +459,7 @@
 | 343  | [makeplane/plane](https://github.com/makeplane/plane)        | 开源的项目管理和问题跟踪平台。该项目是开源的项目管理系统，旨在简化团队的项目管理流程。它易于使用、可自托管，支持问题跟踪、周期管理、项目分解和分析统计等功能，可作为 JIRA 的替代品 | TypeScript  |
 | 344  | [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) | 轻松管理功能开关和配置的平台。这是一个开源、功能齐全的特征标志（Feature flag）和远程配置平台，专为中小型团队设计。它是基于 Django REST framework 构建的 Web 应用，用于管理应用功能的开关和远程配置，支持 A/B 测试、多变量测试和组织管理等功能，适用于逐步推出新功能、进行市场测试、环境管理等场景 | Python      |
 | 345  | [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | 免费搭建临时邮箱服务。该项目通过 CloudFlare 的免费服务，提供一个功能完备的临时邮箱服务，支持收发邮件、访问密码、自动回复、查看附件等功能 | Vue         |
-| 346  |                                                              |                                                              |             |
-
+| 346  | [vuejs/vitepress](https://github.com/vuejs/vitepress) | 由 Vite 和 Vue 提供支持的静态站点生成器 | TypeScript |
 # 大数据
 
 | #    | 存储库                                                       | 注释                                                         | 语言       |
