@@ -418,8 +418,48 @@
 | 302  | [byronka/minum](https://github.com/byronka/minum)            | 极简的 Java Web 框架。该项目是作者手撸的 Java Web 框架，它简约、零依赖、具有良好的性能，内置数据库、Web 服务器、模版引擎、日志等功能。如果你是一个 Java 新手，而且经常在各大 Web 框架中“迷失方向”，那你可以通过这个项目，快速上手 Web 开发并理清头绪 | HTML        |
 | 303  | [cheat/cheat](https://github.com/cheat/cheat)                | 一款交互式的“小抄”命令行工具。该项目可以创建、编辑、查看 *nix 系统命令的备忘录，比如常用命令的示例和解释 | Go          |
 | 304  | [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle)    | 一个简单的任务调度和运行平台。该项目是用 Node.js 写的 cron 替代品，它开箱即用、自带 Web 界面、无需数据库，提供了执行 shell 命令、实时统计、自动故障转移、自动重试、多时区等功能 | JavaScript  |
-| 305  |                                                              |                                                              |             |
-| 306  |                                                              |                                                              |             |
+| 305  | [RsyncProject/rsync](https://github.com/RsyncProject/rsync)  | Linux 远程同步文件的工具。该项目提供了一种快速、增量的文件传输方式，即仅传输有变动的部分，可用于远程同步和备份文件 | C           |
+| 306  | [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) | 微信聊天记录迁移和备份工具。这是一个用于导出微信聊天记录的工具，支持以 HTML、PDF 或文本格式保存聊天内容，适用于 Windows 和 macOS 系统 | C++         |
+| 307  | [raviqqe/muffet](https://github.com/raviqqe/muffet)          | Go 写的网站链接检查工具。该项目通过多线程和递归的方式，检查目标网站中所有页面的链接。它使用简单、速度快，支持 a、img、link、script 等多种标签 | Go          |
+| 308  | [dromara/SMS4J](https://github.com/dromara/SMS4J)            | Java 的短信服务聚合框架。该项目集成了国内众多第三方短信服务，简化了接入多个短信 SDK 的流程，仅通过修改配置文件，就能轻松实现发送短信的功能 | Java        |
+| 309  | [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) | 一个简单、开箱即用的 wiki 平台。该项目是基于 PHP 和 Laravel 的 wiki 平台，拥有搜索、Markdown 编辑器、绘图、多语言、身份验证等功能 | PHP         |
+| 310  | [H-M-H/Weylus](https://github.com/H-M-H/Weylus)              | 将平板用作计算机上的输入板/触摸屏。通过该项目可以将平板设备，作为电脑的外接屏幕、触控板、键盘，适用于 Windows、Linux 和 macOS 系统 | Rust        |
+| 311  | [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) | GitHub 网站汉化插件。该项目可以将 GitHub 网站的菜单栏、标题、按钮等公共组件，自动翻译成中文，适合刚接触 GitHub 的小白使用 | JavaScript  |
+| 312  | [magnific0/wondershaper](https://github.com/magnific0/wondershaper) | Linux 限制网络带宽的工具。该项目通过使用 iproute 的 tc 命令，实现了对 Linux 网络带宽限速的功能，支持多网卡、限制最大上传/下载速率 | Shell       |
+| 313  | [zhenorzz/goploy](https://github.com/zhenorzz/goploy)        | 容易上手的代码发布平台。这是一个采用 Go + Vue.js 构建的 Web 部署平台，可一键部署、发布和回滚项目。支持基于角色的访问控制、监控、秒级定时任务、Xterm、LDAP 等功能，提供了完整的安装引导，即使是初学者也能轻松上手 | Go          |
+| 314  | [knadh/listmonk](https://github.com/knadh/listmonk)          | 开源的邮件列表和营销平台。这是一个开箱即用的邮件营销平台，可以帮助你管理邮件订阅者、创建和发送邮件、分析营销数据。可查看邮件阅读率、链接点击率等，支持自托管适用于个人和企业 | Go          |
+| 315  | [restic/restic](https://github.com/restic/restic)            | 一款强大的开源备份工具。该项目提供了简单、快速、安全的开源备份解决方案。它无需繁琐的配置，即可轻松完成备份和恢复操作。采用增量备份策略，备份数据经过加密和压缩处理，保障数据安全且节省空间，支持灵活的存储选择，包括本地磁盘和云存储。可设置自动备份时间，确保数据得到定期的备份保护 | Go          |
+| 316  | [version-fox/vfox](https://github.com/version-fox/vfox)      | 无忧应对多编程语言不同版本的工具。这是一款跨平台的通用版本管理工具，通过命令行快速安装、切换编程语言的不同版本，并支持自定义源地址。相比于针对每种语言的独立版本管理工具（如 nvm、fvm、gvm 等），这个项目让开发者摆脱繁琐的学习和记忆过程，只需一个工具、一条命令，轻松搞定多编程语言版本管理 | Go          |
+| 317  | [linyimin0812/spring-startup-analyzer](https://github.com/linyimin0812/spring-startup-analyzer) | 优化 Spring Boot 应用启动性能的工具。该项目利用采集 Spring 应用启动过程数据，生成交互式分析报告，为开发者提供了分析 Spring 应用启动性能的工具。其主要功能包括分析启动卡点、处理 Spring Bean 异步初始化，以及显示应用未加载的 jar 包、方法调用次数和耗时统计等详细信息 | Java        |
+| 318  | [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) | 用手势操控电脑程序的工具。该项目基于手势识别进行自定义操控电脑程序，采用纯前端技术栈实现。它通过训练好的模型（MediaPipe）来识别手势，然后将特定手势与电脑操控绑定，最后，用户可以指定操作的进程，从而实现手势操控电脑程序 | TypeScript  |
+| 319  | [sfsam/Itsycal](https://github.com/sfsam/Itsycal)            | 可爱的 Mac 菜单栏日历。这是一个迷你的菜单栏日历工具，拥有可爱的界面和实用的功能。支持显示/添加系统日历的事件、深色模式、周数、快捷键等功能，适用于 macOS 11+ 系统 | Objective-C |
+| 320  | [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | 防止 Mac 进入睡眠状态的工具。这一个小型的菜单栏实用工具，可以让 Mac 电脑在预设的时间内或永久不进入睡眠模式，适用于 macOS 10.13 或更高版本 | Objective-C |
+| 321  | [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) | 一款支持多平台的直播录制工具。该项目是基于 FFmpeg 实现的多平台直播源录制工具，支持循环执行直播录制任务（循环值守）、直播状态推送、多人录制、去水印、选择画质等功能 | Python      |
+| 322  | [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) | 只需复制粘贴即可解决 K8s 网络问题的配方。该项目包含了 Kubernetes 网络策略的各种用例和示例 YAML 文件，可直接复制使用 |             |
+| 323  | [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) | 开源的视频翻译和配音工具。该项目可以将视频从一种语言翻译成指定语言的视频，并自动生成和添加对应语言的字幕和配音 | Python      |
+| 324  | [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) | 一款开源的磁盘加密软件。该项目是基于知名、已停止维护的 TrueCrypt 开发，修复了已知的许多漏洞和安全问题。经过多年的迭代，VeraCrypt 的功能更加强大。它支持动态加密系统分区、硬件加速、隐藏加密容器、多重认证等功能，适用于 Windows、Linux 和 macOS 平台，提供了跨平台的硬盘加密开源解决方案 | C           |
+| 325  | [mat/besticon](https://github.com/mat/besticon)              | 获取网站 favicon 图标的服务。该服务使用 Go 语言编写，用于获取目标网站 favicon.ico 地址。它特别适用于导航类网站，因为它可以很方便地从源站点上获取图标，即使在找不到图标的情况下，也会返回一个站点名称首字母的灰色图标 | Go          |
+| 326  | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) | 快速、优雅地发布 Go 应用。这是一个 Go 项目打包、签名和发布的工具，支持自动发布到 GitHub、GitLab 和 Gitea 平台、创建 Docker 镜像、Linux 软件包和 Homebrew 等功能，可在本地运行也支持 CI/CD 系统，但免费版不支持构建 macOS 和 Windows 安装包 | Go          |
+| 327  | [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) | 基于 Web 的 SQLite 数据库管理工具。这是一个用 Flask 和 peewee 编写的 SQLite 数据库 Web 管理平台。它安装简单、启动也非常方便。该项目提供了一个简单易用的界面，以及实用的 SQLite 数据管理功能，包括创建/删除表、索引、数据导入/导出、排序、SQL 查询等功能 | Python      |
+| 328  | [Textualize/toolong](https://github.com/Textualize/toolong)  | 好用的终端日志文件处理工具。这是一个用于查看、追踪、合并和搜索，日志/JSON 长文件的命令行工具。它提供了高亮显示和实时追踪日志的功能，支持快速打开 GB 级的文件，并能根据时间戳自动合并日志文件 | Python      |
+| 329  | [getpelican/pelican](https://github.com/getpelican/pelican)  | Python 语言的静态网站生成器。这是一个用 Python 编写的静态网站生成器，让你可以通过编写 Markdown、reStructuredText 等格式的文本文件来创建网站，支持生成 RSS、代码语法高亮、插件扩展等功能 | Python      |
+| 330  | [PostHog/posthog](https://github.com/PostHog/posthog)        | 开源的产品分析平台。这是一款基于 Django 构建的产品分析和用户追踪平台，它提供了丰富的功能，包括事件跟踪、漏斗分析、群体分析、A/B 测试等，适用于了解用户行为、改善产品体验的场景 | Python      |
+| 331  | [ts1/BLEUnlock](https://github.com/ts1/BLEUnlock)            | 使用蓝牙设备解锁你的 Mac 电脑。这款工具是可以在 macOS 上实现通过蓝牙设备解锁/锁定电脑。使用该工具时，蓝牙设备无需安装任何应用程序。当蓝牙设备靠近 Mac 电脑时，可以解锁屏幕并唤醒电脑；而当蓝牙设备远离时，自动锁定屏幕并暂停播放音乐/视频。支持 iPhone、Apple Watch、蓝牙耳机等设备 | Swift       |
+| 332  | [Stellarium/stellarium](https://github.com/Stellarium/stellarium) | 一款开源的天象模拟软件。该项目是天文爱好者必备神器，它能够精确地模拟/展示出头顶星空的景象，包括恒星、星座、行星、彗星等天体，支持选择时间和地点、放大观察、图解星座等功能，提供了 Windows、Linux、macOS、iOS 和 Android 在内的多个平台客户端 | C++         |
+| 333  | [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 开源的分布式链路追踪平台。该项目是受到 Dapper 和 OpenZipkin 的启发，由 Uber 创建并开源的分布式调用链追踪平台。它可用于监控和诊断分布式应用（微服务），功能包括支持多语言、全链路追踪、上下文传递、性能指标、可视化和告警等 | Go          |
+| 334  | [outline/outline](https://github.com/outline/outline)        | 开源的文档和团队知识库管理工具。这是一款用 React 和 Node.js 开发的在线文档编辑和协作工具，它界面美观、功能丰富、兼容 Markdown 的特点，支持中文和 Docker 部署。此外，它还提供了 Windows、macOS、iOS 和 Android 客户端，可作为私人 wiki 或中小型公司的内部文档和知识库平台 | TypeScript  |
+| 335  | [strapi/strapi](https://github.com/strapi/strapi)            | 全球领先的开源无头 CMS。这是一款完全免费、采用 JavaScript/TypeScript 开发的无头内容管理系统。它拥有开箱即用的 API 和友好的管理面板，自带权限管理、默认安全、SEO 友好等特点。Strapi 作为目前 GitHub 上最流行的开源内容管理系统之一，已成为多家世界 500 强公司的首选 CMS | TypeScript  |
+| 336  | [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) | 免费、开源的落地页模板。该项目是基于 TailwindCSS、React 和 Next.js 构建的落地页模板，它界面美观、代码简单、设计在线，适用于快速制作公司主页、活动落地页等 | TypeScript  |
+| 337  | [posit-dev/great-tables](https://github.com/posit-dev/great-tables) | 用 Python 制作漂亮的表格。这个 Python 库可以用来制作实用且美观的表格。它提供了一套表格组件，通过组合不同的表格部分，如表头、表尾、行标签（stub）以及跨列标签（spanner labels）等，帮助 Python 开发者轻松制作漂亮的数据表格 | Python      |
+| 338  | [pemistahl/grex](https://github.com/pemistahl/grex)          | 自动生成正则表达式的命令行工具。当你不知道如何写正则的时候，或许它能派上用场。该项目是用 Rust 语言开发的命令行工具，它可以根据用户提供的示例内容返回对应的正则表达式，可以作为库或命令行工具使用 | Rust        |
+| 339  | [bitnami/containers](https://github.com/bitnami/containers)  | 各种开源软件的容器镜像集合。这个项目是由 BitNami 维护和开源的 Docker 容器集合，包含各种开源软件、系统和 Web 应用。它们都经过了优化和漏洞扫描，可实现 Docker 一键部署，轻松部署应用，无需繁琐的安装和配置过程 | Shell       |
+| 340  | [vanna-ai/vanna](https://github.com/vanna-ai/vanna)          | 与你的 SQL 数据库聊天。该项目使用 LLM+RAG+数据库技术，让用户能够通过自然语言查询 SQL 数据库，用生成的 SQL 回答你的问题 | Python      |
+| 341  | [oceanbase/odc](https://github.com/oceanbase/odc)            | 企业级数据库协同开发平台。该项目是提供数据库协同开发和数据管理的平台，专为提升 SQL 开发效率而设计。它基于 Spring Boot 和 Electron 构建，提供了 Web 和桌面客户端，支持 SQL 规范检查、变更回滚、数据生命周期管理、数据脱敏和操作审计等功能，兼容 OceanBase、Oracle、MySQL 和 Doris 等多种数据源 | Java        |
+| 342  | [mfts/papermark](https://github.com/mfts/papermark)          | 开源的文件分享平台。该项目作为 DocSend 服务的开源替代方案，提供了自托管、简单易用的文档分享功能。它采用 Next.js+Tailwind CSS 构建，用户仅需上传文档，就能获得一个可在线访问文件内容的地址，并支持自定义域名和访问数据追踪等功能 | TypeScript  |
+| 343  | [makeplane/plane](https://github.com/makeplane/plane)        | 开源的项目管理和问题跟踪平台。该项目是开源的项目管理系统，旨在简化团队的项目管理流程。它易于使用、可自托管，支持问题跟踪、周期管理、项目分解和分析统计等功能，可作为 JIRA 的替代品 | TypeScript  |
+| 344  | [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) | 轻松管理功能开关和配置的平台。这是一个开源、功能齐全的特征标志（Feature flag）和远程配置平台，专为中小型团队设计。它是基于 Django REST framework 构建的 Web 应用，用于管理应用功能的开关和远程配置，支持 A/B 测试、多变量测试和组织管理等功能，适用于逐步推出新功能、进行市场测试、环境管理等场景 | Python      |
+| 345  | [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | 免费搭建临时邮箱服务。该项目通过 CloudFlare 的免费服务，提供一个功能完备的临时邮箱服务，支持收发邮件、访问密码、自动回复、查看附件等功能 | Vue         |
+| 346  |                                                              |                                                              |             |
 
 # 大数据
 
@@ -459,6 +499,8 @@
 | 14   | [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | 简单好用的网站变更检测、监控和通知服务。基于 Flask+Selenium 构建的 Web 服务，可以在目标网站发生变化时发出通知，可用于监控商品降价、工作机会、版本发布、最新内容等 | Python     |
 | 15   | [SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) | 轻松管理 WebDriver 的 Python 库。经常写爬虫的小伙伴应该都遇到过找 WebDriver 路径的情况吧！用了这个项目，将无需一次又一次地重复寻找 WebDriver 在哪里啦 | Python     |
 | 16   | [jagt/clumsy](https://github.com/jagt/clumsy)                | 让 Windows 网络变差的工具。该项目是基于 WinDivert 实现的手动控制 Windows 网络情况的工具，它无需安装下载即用，可用于模拟网络延迟、节流、丢包等 | C          |
+| 17   | [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) | 绕过反爬检测的 Python 库。这是一个经过优化的 Selenium WebDriver 补丁，专门用于防止浏览器自动化过程中，触发反机器人机制。它能够隐藏浏览器特征（指纹），使用起来十分方便，就像一个 Python 的第三方库一样 | Python     |
+| 18   |                                                              |                                                              |            |
 
 
 
