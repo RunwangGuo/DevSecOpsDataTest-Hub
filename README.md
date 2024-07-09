@@ -460,6 +460,22 @@
 | 344  | [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) | 轻松管理功能开关和配置的平台。这是一个开源、功能齐全的特征标志（Feature flag）和远程配置平台，专为中小型团队设计。它是基于 Django REST framework 构建的 Web 应用，用于管理应用功能的开关和远程配置，支持 A/B 测试、多变量测试和组织管理等功能，适用于逐步推出新功能、进行市场测试、环境管理等场景 | Python      |
 | 345  | [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | 免费搭建临时邮箱服务。该项目通过 CloudFlare 的免费服务，提供一个功能完备的临时邮箱服务，支持收发邮件、访问密码、自动回复、查看附件等功能 | Vue         |
 | 346  | [vuejs/vitepress](https://github.com/vuejs/vitepress) | 由 Vite 和 Vue 提供支持的静态站点生成器 | TypeScript |
+| 347 | [laurent22/joplin](https://github.com/laurent22/joplin) | 安全的笔记和待办事项应用程序，具有与 Windows、macOS、Linux、Android 和 iOS 同步功能 | TypeScript |
+| 348 | [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) | 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布，解放个人生产力 | JavaScript |
+| 349 | [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) | 提供多种精美的`Typora`主题，效果都还不错，喜欢`Typora`的朋友可以试用 | CSS |
+| 350 | [luin/wechat-export](https://github.com/luin/wechat-export) | 将微信聊天记录导出为HTML文件 | C |
+| 351 | [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) | 如果你使用`Notion`，应该对其自动生成的头像印象深刻，这个项目就是可自定义生成`Notion`风格的头像，特别赞 | TypeScript |
+| 352 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 一个开源可自建的网站监控工具，用于监控网站的运行状态 | JavaScript |
+| 353 | [Reamd7/notion-zh_CN](https://github.com/Reamd7/notion-zh_CN) | 让`Notion`中文化，从网页端、Win、Mac三端角度介绍了如何进行汉化 | JavaScript |
+| 354 | [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) | 高并发大流量如何进行秒杀架构设计？作者对这部分内容做了一个系统的整理，并写了一套系统 | Java |
+| 355 | [1Panel-dev/KubePi](https://github.com/1Panel-dev/KubePi) | 简单易用的开源 Kubernetes 可视化管理面板，允许管理员导入多个 Kubernetes 集群，并且通过权限控制，将不同 cluster、namespace 的权限分配给指定用户 | Go |
+| 356 | [sepandhaghighi/samila](https://github.com/sepandhaghighi/samila) | 艺术照生成器，家里房子装修可以生成几张出来，整点文化气息 | Python |
+| 357 | [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) | `appflowy`的目标是称为`Notion`的开源替代方案，其核心主打的是数据自由和媲美`Notion`的颜值和功能，现在还在初步开发中，可以小小地期待一下 | Dart |
+| 358 | [kuaifan/dootask](https://github.com/kuaifan/dootask) | DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具 | PHP |
+| 359 | [labring/sealos](https://github.com/labring/sealos) | 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗 | TypeScript |
+| 360 | [casdoor/casdoor](https://github.com/casdoor/casdoor) | Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大 | Go |
+| 361 |  |  |  |
+| 362 |  |  |  |
 # 大数据
 
 | #    | 存储库                                                       | 注释                                                         | 语言       |
