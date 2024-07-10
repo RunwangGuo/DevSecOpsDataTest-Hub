@@ -109,6 +109,7 @@
 | 22   | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)    | 黑客工具全家桶。该项目收录了各种黑客工具，包括破解密码、SQL 注入、钓鱼攻击、XSS、DDos 等 | Python     |
 | 23   | [neargle/my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) | 从零开始的 Kubernetes 攻防。该项目包含了作者在多处攻防场景，所遇到的云原生相关的漏洞挖掘和漏洞利用实例 | Shell      |
 | 24   | [wazuh/wazuh](https://github.com/wazuh/wazuh)                | `Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具 | C          |
+| 25   | [PeiQi0/PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book) | `PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见 |            |
 
 # 运维
 
@@ -527,7 +528,17 @@
 | 411 | [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) | Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts | TypeScript |
 | 412 | [coder/code-server](https://github.com/coder/code-server) | 这是一款开源的基于 `VSCode` 的在线编辑器，它提供了一个在线 `IDE`，只要你将其部署在服务器，你就有了一个随时可用的云环境 | TypeScript |
 | 413 | [guaguaguaxia/weekly_report](https://github.com/guaguaguaxia/weekly_report) | 简单描述工作内容，帮你生成完整周报 | CSS |
-| 414 |  |  |  |
+| 414 | [latentcat/qrbtf](https://github.com/latentcat/qrbtf) | 艺术二维码生成器 | TypeScript |
+| 415 | [getmoneynote/moneynote-api](https://github.com/getmoneynote/moneynote-api) | 一个开源免费的记账解决方案，包括[后端](https://github.com/getmoneynote/moneynote-api)，[网页版](https://github.com/getmoneynote/moneywhere-user-fe)，[App](https://github.com/getmoneynote/moneywhere_user_flutter)，主要用于个人生活记账，开店收支记账，支持[ Docker 一键部署](https://github.com/getmoneynote/docker-compose-moneywhere)自己的记账程序 | Java |
+| 416 | [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) | 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告 | Python |
+| 417 | [veops/cmdb](https://github.com/veops/cmdb) | 运维配置管理数据库，主要用来存放如服务器、应用等运维资产以及它们间的关系，是运维的权威数据库。主要功能包括模型管理和资源的查询，模型管理运维人员可以按照公司的内部的运维场景自己合理的设计，然后通过Agent自动上报和人工批量手动录入的方式写入模型对应的数据。对其他系统提供Restful API，便于做一些成本核算之类的工作 | Python |
+| 418 | [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything) | 开源的企业级本地知识库问答解决方案，致力于支持任意格式文件或数据库的问答,您的任何格式的本地文件都可以往里扔，即可获得准确、快速、靠谱的问答体验 | Python |
+| 419 | [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) | `Star is easy`，可随着 `Starred Repositories` 增长，在需要使用到某个项目时难免记不清叫什么，而 Github 又只提供简单的搜索，找到目标 `Starred Repository` 竟也成了件小小的麻烦事。所以拥有自己的 `Github Stars Repositories Manager` 也算是开发者的必备需求。`Gitstars` 由此诞生 | Vue |
+| 420 | [engigu/Message-Push-Nest](https://github.com/engigu/Message-Push-Nest) | 打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义 `webhook` 等多种通知方式。定制你的消息，让通知方式更灵活多样 | Go |
+| 421 | [floccusaddon/floccus](https://github.com/floccusaddon/floccus) | `Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步 | JavaScript |
+| 422 | [soulteary/docker-cronicle](https://github.com/soulteary/docker-cronicle) | Cronjob` 定时任务 `Docker` 解决方案，提供了一个简介漂亮且轻量的 `WEB UI | JavaScript |
+| 423 | [gitify-app/gitify](https://github.com/gitify-app/gitify) | 在你的菜单栏上显示 `GitHub` 通知，跨平台 | TypeScript |
+| 424 |  |  |  |
 # 大数据
 
 | #    | 存储库                                                       | 注释                                                         | 语言       |
