@@ -78,7 +78,7 @@
 | 71   | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 企业级 UI 设计语言和 React UI 库                             | TypeScript |
 | 72   | [ant-design/ant-motion](https://github.com/ant-design/ant-motion) | Ant Design 的 Animate 规格及组件                             | JavaScript |
 | 73   | [chvin/react-tetris](https://github.com/chvin/react-tetris)  | 使用 React、Redux、Immutable 编写俄罗斯方块                  | JavaScript |
-| 74   |                                                              |                                                              |            |
+| 74   | [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) | `Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端） | Vue        |
 |      |                                                              |                                                              |            |
 
 # 安全
@@ -522,11 +522,11 @@
 | 406 | [star7th/showdoc](https://github.com/star7th/showdoc) | 一个非常适合IT团队的在线API文档、技术文档工具 | JavaScript |
 | 407 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 监控你的应用流量，跨平台 | Rust |
 | 408 | [provectus/kafka-ui](https://github.com/provectus/kafka-ui) | 开源的 `Apache Kafka` 管理项目（Web UI） | Java |
-| 409 |  |  |  |
-| 410 |  |  |  |
-| 411 |  |  |  |
-| 412 |  |  |  |
-| 413 |  |  |  |
+| 409 | [duplicati/duplicati](https://github.com/duplicati/duplicati) | Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上 | C# |
+| 410 | [signoz/signoz](https://github.com/signoz/signoz) | SigNoz` 是一套开源 `APM` 方案，用于监控应用指标和链路，可以看到调用情况、异常、trace上下链路，也可以自己定义 `Dashboard | TypeScript |
+| 411 | [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) | Helm Dashboard` 是一个开源项目，它提供了一种 UI 驱动的方式来查看已安装的 `Helm charts | TypeScript |
+| 412 | [coder/code-server](https://github.com/coder/code-server) | 这是一款开源的基于 `VSCode` 的在线编辑器，它提供了一个在线 `IDE`，只要你将其部署在服务器，你就有了一个随时可用的云环境 | TypeScript |
+| 413 | [guaguaguaxia/weekly_report](https://github.com/guaguaguaxia/weekly_report) | 简单描述工作内容，帮你生成完整周报 | CSS |
 | 414 |  |  |  |
 # 大数据
 
