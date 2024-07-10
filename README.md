@@ -108,7 +108,7 @@
 | 21   | [aquasecurity/trivy](https://github.com/aquasecurity/trivy)  | 一款全面的容器安全扫描工具。目前最流行的开源容器镜像漏洞扫描工具，拥有速度快、精准度高、依赖检测、机密检查、对 CI 友好等特点。它不仅安装简单而且容易上手，仅需一条命令，即可发现镜像存在的安全漏洞 | Go         |
 | 22   | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)    | 黑客工具全家桶。该项目收录了各种黑客工具，包括破解密码、SQL 注入、钓鱼攻击、XSS、DDos 等 | Python     |
 | 23   | [neargle/my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) | 从零开始的 Kubernetes 攻防。该项目包含了作者在多处攻防场景，所遇到的云原生相关的漏洞挖掘和漏洞利用实例 | Shell      |
-| 24   |                                                              |                                                              |            |
+| 24   | [wazuh/wazuh](https://github.com/wazuh/wazuh)                | `Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具 | C          |
 
 # 运维
 
@@ -474,8 +474,60 @@
 | 358 | [kuaifan/dootask](https://github.com/kuaifan/dootask) | DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具 | PHP |
 | 359 | [labring/sealos](https://github.com/labring/sealos) | 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗 | TypeScript |
 | 360 | [casdoor/casdoor](https://github.com/casdoor/casdoor) | Casdoor 是一个基于 OAuth 2.0 / OIDC 的 UI 优先集中认证 / 单点登录 (SSO) 平台，简单点说，就是 Casdoor 可以帮你解决 用户管理 的难题，你无需开发用户登录注册等与用户鉴权相关的一系列功能，只需几个步骤，简单配置，与你的主应用配合，便可完全托管你的用户模块，简单省心，功能强大 | Go |
-| 361 |  |  |  |
-| 362 |  |  |  |
+| 361 | [rapiz1/rathole](https://github.com/rapiz1/rathole) | 安全、稳定、高性能的内网穿透工具，用 Rust 语言编写 | Rust |
+| 362 | [Coder-Yu/QRec](https://github.com/Coder-Yu/QRec) | Python编写的推荐系统快速实践框架（基于TF），和之前推荐的[gorse](https://weekly.howie6879.com/2021/11-15~11-21.我的周刊（第014期）.html?h=推荐#gorse)有点类似，但不同的是QRec提供了领先的推荐系统模型用于实践 | Python |
+| 363 | [usememos/memos](https://github.com/usememos/memos) | Memos 是一款开源的 [flomo](https://flomoapp.com/) 替代工具，为了快速方便的部署属于自己的碎片化知识管理工具 | Go |
+| 364 | [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) | 该项目可以很方便的管理个人数据，如目标规划/笔记/联系人/密码/附件/图片/文件等等 | CSS |
+| 365 | [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) | 基于 Vue3.x + TypeScript 的[在线演示文稿](https://pipipi-pikachu.github.io/PPTist/)（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示，支持导出PPT文件 | Vue |
+| 366 | [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U，让你不用安装有线电视就可以高清无卡顿的看电视 |  |
+| 367 | [files-community/Files](https://github.com/files-community/Files) | 一个现代化的文件管理软件(Windows用户专属) | C# |
+| 368 | [vnotex/vnote](https://github.com/vnotex/vnote) | VNote是免费、开源的，致力于成为一个舒适的笔记平台（平台支持） | C++ |
+| 369 | [YaoApp/yao](https://github.com/YaoApp/yao) | `Yao` 是一款支持快速创建 `Web` 服务和管理后台的开源低代码应用引擎 | Go |
+| 370 | [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) | 通过实战学习Rust，有[中文](https://zh.practice.rs/)和[英文](https://practice.rs/)两个版本，每章分为三个部分：示例、练习和实践，基本上就是完全以代码的形式将知识点传达给每位学习者 | Rust |
+| 371 | [djyde/ossart](https://github.com/djyde/ossart) | 这是一个娱乐性质的项目，可以将你最近 6年的 GitHub 活跃图打印成摆件，在官网[getoss](https://getoss.art/)填写你的用户名即可 | TypeScript |
+| 372 | [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) | 微信 macOS 客户端撤回拦截与多开工具 | Objective-C |
+| 373 | [alist-org/alist](https://github.com/alist-org/alist) | 一款支持多种存储的目录文件列表程序，支持 `web` 浏览与 `webdav`，后端基于 `gin`，前端使用 `react` | Go |
+| 374 | [BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer) | AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用作者的 RWKV 模型，类似 GPT-2 | Python |
+| 375 | [peazip/PeaZip](https://github.com/peazip/PeaZip) | PeaZip是一款开源免费的解压缩软件，支持Windows、Linux以及Mac，具有卷扩展，压缩，认证加密功能。支持7z，7-ZIP sfx，ACE，ARJ，Brotli，BZ2，CAB，CHM，CPIO，DEB，GZ，ISO，JAR，LHA/LZH，NSIS，OOo，PAQ/LPAQ，PEA，QUAD，RAR，RPM，split，TAR，z，ZIP，ZIPX，Zstandard | Pascal |
+| 376 | [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) | `Notepad++`的跨平台开源实现 | C++ |
+| 377 | [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) | `Luckysheet` 是一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源 | JavaScript |
+| 378 | [maqi1520/mdx-editor](https://github.com/maqi1520/mdx-editor) | 一个好用的微信排版编辑器，Markdown 是广大程序员酷爱的写作方式，但满足不了微信排版的需求，MDX 正好弥补了 Markdown 的缺陷，点击 [mdx-editor](https://editor.runjs.cool/) 尝试 | JavaScript |
+| 379 | [javahuang/surveyking](https://github.com/javahuang/surveyking) | 功能挺全面的一个调查问卷系统 | Java |
+| 380 | [onblog/BlogHelper](https://github.com/onblog/BlogHelper) | 帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云） | JavaScript |
+| 381 | [foamzou/melody](https://github.com/foamzou/melody) | 你的音乐精灵，旨在帮助你更好地管理音乐；目前的主要能力是帮助你将喜欢的歌曲或者音频上传到音乐平台的云盘 | Vue |
+| 382 | [logseq/logseq](https://github.com/logseq/logseq) | Logseq是一款大纲+双链+本地储存+GitHub储存+注重用户数据隐私安全的笔记软件 | Clojure |
+| 383 | [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) | 开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux` | C++ |
+| 384 | [zonemeen/musicn](https://github.com/zonemeen/musicn) | 一个下载高品质音乐的命令行工具 | TypeScript |
+| 385 | [LeslieLeung/heimdallr](https://github.com/LeslieLeung/heimdallr) | `notification-gateway-lite` 是一个非常轻量的通知网关，可以聚合各种推送渠道，支持各种常见的推送渠道，如Bark、企业微信等，使用 `Serverless` 部署，几乎零成本运行 | Python |
+| 386 | [doocs/md](https://github.com/doocs/md) | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性 | Vue |
+| 387 | [whyour/qinglong](https://github.com/whyour/qinglong) | 支持python3、javaScript、shell、typescript 的定时任务管理面板 | TypeScript |
+| 388 | [upptime/upptime](https://github.com/upptime/upptime) | 由 `GitHub` 提供支持的免费网站运行状态监控服务 | JSON |
+| 389 | [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) | `mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA | Go |
+| 390 | [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | 每天1小时，持续三个月，就可以获得 `DevOps` 全方位的领域知识 | Shell |
+| 391 | [logto-io/logto](https://github.com/logto-io/logto) | `Logto` 帮助你在数分钟内构建登录体验与用户身份体系 | TypeScript |
+| 392 | [vanila-io/wireflow](https://github.com/vanila-io/wireflow) | 一款开源的用户流程图制作工具 | JavaScript |
+| 393 | [tabler/tabler](https://github.com/tabler/tabler) | 基于 `Bootstrap` 的免费开源的 `Dashboard UI` 工具包 | HTML |
+| 394 | [pretty66/iptables-web](https://github.com/pretty66/iptables-web) | `iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用 | Go |
+| 395 | [ekzhang/bore](https://github.com/ekzhang/bore) | `bore` 是一个简单的命令行工具，可以让你轻松地将内网端口暴露到互联网上 | Rust |
+| 396 | [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | nginx-proxy-manager` 是一个简单的反向代理工具，可以提供免费的`SSL`，还有 `web` 页面供你快速配置 `Nginx | JavaScript |
+| 397 | [facebook/docusaurus](https://github.com/facebook/docusaurus) | `Meta (Facebook)` 开源的静态站点生成器，专门用来构建文档站点 | TypeScript |
+| 398 | [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) | Verdaccio` 是一个 `Node.js` 创建的轻量的私有 `npm proxy registry | TypeScript |
+| 399 | [dessant/buster](https://github.com/dessant/buster) | `Buster` 是一款开源的浏览器插件，支持 `Chrome、Edge、Firefox、Opera`，通过语音识别完成 `reCAPTCHA` 的“我是人类”验证码，避免图形验证码 | JavaScript |
+| 400 | [purocean/yn](https://github.com/purocean/yn) | 高度可扩展的 Markdown 编辑器。版本控制、AI Copilot、思维导图、文档加密、代码片段运行、集成终端、图表嵌入、HTML 小程序、Reveal.js、插件和宏替换 | TypeScript |
+| 401 | [shaokeyibb/open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth) | 深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性 |  |
+| 402 | [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) | 一款简洁实用优雅的高性能个人博客系统 | TypeScript |
+| 403 | [streetwriters/notesnook](https://github.com/streetwriters/notesnook) | 印象笔记的开源替代品（支持端对端加密） | TypeScript |
+| 404 | [ijjk/notion-blog](https://github.com/ijjk/notion-blog) | 基于 `Notion` 构建静态站点 | TypeScript |
+| 405 | [Hellager/mission-backup](https://github.com/Hellager/mission-backup) | 始终为文件、文件夹或任何资源保留本地备份，无论是在 Windows、Macos 还是 Linux 上 重构中，敬请期待 | Rust |
+| 406 | [star7th/showdoc](https://github.com/star7th/showdoc) | 一个非常适合IT团队的在线API文档、技术文档工具 | JavaScript |
+| 407 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 监控你的应用流量，跨平台 | Rust |
+| 408 | [provectus/kafka-ui](https://github.com/provectus/kafka-ui) | 开源的 `Apache Kafka` 管理项目（Web UI） | Java |
+| 409 |  |  |  |
+| 410 |  |  |  |
+| 411 |  |  |  |
+| 412 |  |  |  |
+| 413 |  |  |  |
+| 414 |  |  |  |
 # 大数据
 
 | #    | 存储库                                                       | 注释                                                         | 语言       |
