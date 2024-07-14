@@ -538,7 +538,29 @@
 | 421 | [floccusaddon/floccus](https://github.com/floccusaddon/floccus) | `Floccus` 是一个开源的浏览器书签同步项目，它支持 `Firefox、Chrome、Edge`等浏览器书签同步 | JavaScript |
 | 422 | [soulteary/docker-cronicle](https://github.com/soulteary/docker-cronicle) | Cronjob` 定时任务 `Docker` 解决方案，提供了一个简介漂亮且轻量的 `WEB UI | JavaScript |
 | 423 | [gitify-app/gitify](https://github.com/gitify-app/gitify) | 在你的菜单栏上显示 `GitHub` 通知，跨平台 | TypeScript |
-| 424 |  |  |  |
+| 424 | [go-sigma/sigma](https://github.com/go-sigma/sigma) | 一个比 harbor 更为轻量的镜像仓库项目，值得关注 | Go |
+| 425 | [productiveops/dokemon](https://github.com/productiveops/dokemon) | 一个管理 docker 的开源项目 | TypeScript |
+| 426 | [vivo/MoonBox](https://github.com/vivo/MoonBox) | vivo 开源的一个**无侵入**的线上**流量录制** 和**流量回放**平台，沿用了 jvm-sandbox-repeater 的 SPI 设计，并提供了大量的常用插件，同时也提供数据统计和存储能力。通过 Moonbox 可以实现自动化测试、线上问题追踪、和业务监控等能力 | Java |
+| 427 | [admpub/nging](https://github.com/admpub/nging) | 项目说明：Go 语言 Web 管理面板，包含：计划任务 / MySQL 管理 / Redis 管理 / FTP 管理 / SSH 管理 / 服务器管理 / Caddy 和 Nginx 配置 / DDNS / FRP 可视化配置 / 云存储管理等功能 | Go |
+| 428 | [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) | 记录每一个与运维相关的优秀项目，希望通过这个项目打造一个运维宝典 | Smarty |
+| 429 | [WeBankPartners/we-cmdb](https://github.com/WeBankPartners/we-cmdb) | 在 IT 运维领域中，CMDB 信息的准确性和完整性一直是行业内公认的挑战。如何保证企业的 IT 信息从物理层，到逻辑层，到应用层以及其关系信息被准确记录，以及如何利用 CMDB 的信息完成各种复杂的 IT 运维流程，甚至实现自动化、智能化，CMDB 已成为 IT 运维可正常开展的基石。随着云计算和互联网业务高速发展，IT 资源信息成几何级增加。如何管理日益增长的 IT 数据，拥有一套强大的 CMDB 系统显得尤为重要 | Vue |
+| 430 | [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) | 一键拥有你自己的 ChatGPT 网页服务 | TypeScript |
+| 431 | [Mereithhh/van-nav](https://github.com/Mereithhh/van-nav) | 一个轻量导航站，汇总你的所有服务。全平台支持，单文件部署，有配套浏览器插件 | TypeScript |
+| 432 | [interface-ui/interface-ui](https://github.com/interface-ui/interface-ui) | Interface UI 是一个 Vue3 组件库，简洁、优雅、美观，帮助你快速构建网站，包含中英文文档 | TypeScript |
+| 433 | [datavane/datasophon](https://github.com/datavane/datasophon) | 云原生大数据管家，致力于帮助用户快速构建起稳定、高效、可弹性伸缩的大数据云原生平台 | Java |
+| 434 | [seagull1985/LuckyFrameWeb](https://github.com/seagull1985/LuckyFrameWeb) | 一款免费开源的测试平台，最大的特点是全纬度覆盖了接口自动化、WEB UI 自动化、APP 自动化，并且支持分布式测试，测试关键字驱动也很大程度上解决了测试同学代码基础弱的问题 | Java |
+| 435 | [AutoMeter/AutoMeter-API](https://github.com/AutoMeter/AutoMeter-API) | 一款针对分布式服务，微服务 API 做功能和性能一体化的自动化测试平台,一站式提供项目管理，微服务，API 接口，用例，环境管理，测试管理，前置条件，测试集合，变量管理，测试计划，Mock，测试报告等 | HTML |
+| 436 | [zmops/ArgusDBM](https://github.com/zmops/ArgusDBM) | Argus 开源数据库一体化监控平台。致力于监控所有数据库 | Java |
+| 437 | [1943time/inkdown](https://github.com/1943time/inkdown) | 一个开源的所见即所得 Markdown 编辑器，使用了 `GitHub Flavored Markdown` 标准，同时扩展了 [Mermaid (opens new window)](https://mermaid.js.org/)图形与 [Katex (opens new window)](https://katex.org/)公式，支持明亮和暗黑风格，目标为提高 Markdown 编辑与阅读体验 | TypeScript |
+| 438 |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 # 大数据
 
 | #    | 存储库                                                       | 注释                                                         | 语言       |
