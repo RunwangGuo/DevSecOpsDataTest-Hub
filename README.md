@@ -102,7 +102,19 @@
 | 95   | [umijs/umi](https://github.com/umijs/umi)                    | React 社区中的一个框架✨                                      | TypeScript |
 | 96   | [alibaba/hooks](https://github.com/alibaba/hooks)            | 高质量且可靠的 React Hooks 库                                | TypeScript |
 | 97   | [wangyuan389/yunda](https://github.com/wangyuan389/yunda)    | 低代码搭建小程序、H5、表格、图文。云搭万物，触手可及！       | Vue        |
-| 98   |                                                              |                                                              |            |
+| 98   | [actix/actix-web](https://github.com/actix/actix-web)        | Actix Web 是一个功能强大、实用且速度极快的 Rust Web 框架     | Rust       |
+| 99   | [bluele/gcache](https://github.com/bluele/gcache)            | 一个用于 golang 的内存缓存库。它支持多种驱逐策略：LRU、LFU、ARC | Go         |
+| 100  | [patrickmn/go-cache](https://github.com/patrickmn/go-cache)  | Go 的内存中键：值存储/存储（类似于 Memcached）库，适用于单机应用程序 | Go         |
+| 101  | [coocood/freecache](https://github.com/coocood/freecache)    | 一个零 GC 开销的 Go 缓存库                                   | Go         |
+| 102  | [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) | 高性能内存绑定 Go 缓存                                       | Go         |
+| 103  | [go-gorm/gorm](https://github.com/go-gorm/gorm)              | Golang 的出色 ORM 库，旨在方便开发人员                       | Go         |
+| 104  | [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) | 使用 Vue3、Shadcn UI、Vite、TypeScript 和 Monorepo 构建的现代 vue 管理面板。速度很快！ | Vue        |
+| 105  | [go-gorm/mysql](https://github.com/go-gorm/mysql)            | GORM mysql 驱动程序                                          | Go         |
+| 106  | [ybkuroki/go-webapp-sample](https://github.com/ybkuroki/go-webapp-sample) | golang、echo、gorm                                           | Go         |
+| 107  | [herusdianto/gorm_crud_example](https://github.com/herusdianto/gorm_crud_example) | GoLang、GORM 和 Gin CRUD 示例                                | Go         |
+| 108  | [lemoncode21/golang-crud-gin-gorm](https://github.com/lemoncode21/golang-crud-gin-gorm) |                                                              | Go         |
+| 109  | [roadmapsh/deprecated-version](https://github.com/roadmapsh/deprecated-version) | roadmap.sh 的下一版本                                        | Astro      |
+| 110  |                                                              |                                                              |            |
 
 # 安全
 
@@ -134,6 +146,8 @@
 | 24   | [wazuh/wazuh](https://github.com/wazuh/wazuh)                | `Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具 | C          |
 | 25   | [PeiQi0/PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book) | `PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见 |            |
 | 26   | [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) | 🕷 CrawlerDetect 是一个 PHP 类，用于通过用户代理检测机器人/爬虫/蜘蛛 | PHP        |
+| 27   | [wy876/POC](https://github.com/wy876/POC)                    | 收集整理漏洞EXP/POC，大部分漏洞来源于网络，目前收集整理了1300多个poc/exp，长期更新 |            |
+| 28   | [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) | Wiseflow是一款敏捷的信息挖掘工具，可以从网站、微信公众号、社交平台等各种来源提取简明信息，自动分类并上传到数据库 | Python     |
 
 # 运维
 
@@ -606,13 +620,14 @@
 | 465 | [tazbin/docker-formatter](https://github.com/tazbin/docker-formatter) | 这会格式化 Docker 命令（例如“docker ps”和“docker ps -a”）的输出。该工具增强了可读性，使输出更易于解析和使用 | Go |
 | 466 | [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) | Nginx 的另一个 WebUI | Vue |
 | 467 | [Dunqing/resume](https://github.com/Dunqing/resume) | 使用 Markdown 编写简历，支持部署到 Vercel、Netlify、Cloudflare。 使用 Markdown 编写的简历，支持部署到 Vercel、Netlify 和 Cloudflare | TypeScript |
-| 468 |  |  |  |
-| 469 |  |  |  |
-| 470 |  |  |  |
-| 471 |  |  |  |
-| 472 |  |  |  |
-| 473 |  |  |  |
-| 474 |  |  |  |
+| 468 | [dromara/mayfly-go](https://github.com/dromara/mayfly-go) | (web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo统一管理操作平台) | Go |
+| 469 | [sunny0826/kubecm](https://github.com/sunny0826/kubecm) | 更轻松地管理您的 kubeconfig | Go |
+| 470 | [blinko-space/blinko](https://github.com/blinko-space/blinko) | 一个开源、自托管、优先考虑隐私的个人 AI 笔记工具，使用 TypeScript 构建 | TypeScript |
+| 471 | [ArronYR/short-url](https://github.com/ArronYR/short-url) | 短链接服务 | TypeScript |
+| 472 | [Schniz/fnm](https://github.com/Schniz/fnm) | 🚀 快速、简单的 Node.js 版本管理器，采用 Rust 构建 | Rust |
+| 473 | [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme) | GitHub 个人资料合集，包含精彩的 readme 文件 | Markdown |
+| 474 | [badges/shields](https://github.com/badges/shields) | SVG 和光栅格式的简洁、一致且清晰的徽章 | JavaScript |
+| 475 | [githubdonteails/audio-video-merger](https://github.com/githubdonteails/audio-video-merger) | 一种开源的简便方法，可轻松替换视频文件下的音频 | TypeScript |
 # 大数据
 
 | #    | 存储库                                                       | 注释                                                         | 语言       |
@@ -652,7 +667,7 @@
 | 15   | [SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) | 轻松管理 WebDriver 的 Python 库。经常写爬虫的小伙伴应该都遇到过找 WebDriver 路径的情况吧！用了这个项目，将无需一次又一次地重复寻找 WebDriver 在哪里啦 | Python     |
 | 16   | [jagt/clumsy](https://github.com/jagt/clumsy)                | 让 Windows 网络变差的工具。该项目是基于 WinDivert 实现的手动控制 Windows 网络情况的工具，它无需安装下载即用，可用于模拟网络延迟、节流、丢包等 | C          |
 | 17   | [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) | 绕过反爬检测的 Python 库。这是一个经过优化的 Selenium WebDriver 补丁，专门用于防止浏览器自动化过程中，触发反机器人机制。它能够隐藏浏览器特征（指纹），使用起来十分方便，就像一个 Python 的第三方库一样 | Python     |
-| 18   |                                                              |                                                              |            |
+| 18   | [google/oss-fuzz](https://github.com/google/oss-fuzz)        | OSS-Fuzz——针对开源软件的持续模糊测试                         | Shell      |
 
 
 
