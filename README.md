@@ -89,8 +89,20 @@
 | 82   | [alibaba/easyexcel](https://github.com/alibaba/easyexcel)    | 快速、简洁、解决大文件内存溢出的java处理Excel工具            | Java       |
 | 83   | [dunizb/wxapp-sCalc](https://github.com/dunizb/wxapp-sCalc)  | 微信小程序版简易计算器demo，适合入门练手                     | JavaScript |
 | 84   | [jgm/pandoc](https://github.com/jgm/pandoc)                  | 通用标记转换器                                               | Haskell    |
-| 85   |                                                              |                                                              |            |
-| 86   |                                                              |                                                              |            |
+| 85   | [caarlos0/env](https://github.com/caarlos0/env)              | 一个简单的、零依赖的库，用于将环境变量解析为结构体           | Go         |
+| 86   | [redis/go-redis](https://github.com/redis/go-redis)          | Redis Go 客户端                                              | Go         |
+| 87   | [iris-contrib/middleware](https://github.com/iris-contrib/middleware) | Iris Web 框架的社区中间件列表                                | Go         |
+| 88   | [coreos/go-oidc](https://github.com/coreos/go-oidc)          | Go OpenID Connect 客户端                                     | Go         |
+| 89   | [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) | TypeScript 入门教程                                          | TypeScript |
+| 90   | [WeBankFinTech/fes.js](https://github.com/WeBankFinTech/fes.js) | Fes.js 是一个基于 Vue 3 好用的前端应用解决方案。以约定、配置化、组件化的设计思想，让用户关心组件搭建页面内容。技术曲线平缓，上手也简单。在经过多个项目中后期趋于稳定。丰富的Vue 3生态和Fes.js插件，让业务开发更加简单快捷~ | JavaScript |
+| 91   | [gz-yami/mall4j](https://github.com/gz-yami/mall4j)          | ⭐️⭐️⭐️ 电商城小程序电商城系统 PC商城 H5商城 APP商城 Java商城 O2O商城 跨境商城 | JavaScript |
+| 92   | [macrozheng/mall](https://github.com/macrozheng/mall)        | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。后台管理系统包含商品管理、订单管理、管理、促销管理、运营管理、财务内容管理、统计报表、会员管理、权限管理、设置等模块。 | Java       |
+| 93   | [inventree/InvenTree](https://github.com/inventree/InvenTree) | 开源库存管理系统                                             | Python     |
+| 94   | [wangdoc/typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) | TypeScript 教程                                              |            |
+| 95   | [umijs/umi](https://github.com/umijs/umi)                    | React 社区中的一个框架✨                                      | TypeScript |
+| 96   | [alibaba/hooks](https://github.com/alibaba/hooks)            | 高质量且可靠的 React Hooks 库                                | TypeScript |
+| 97   | [wangyuan389/yunda](https://github.com/wangyuan389/yunda)    | 低代码搭建小程序、H5、表格、图文。云搭万物，触手可及！       | Vue        |
+| 98   |                                                              |                                                              |            |
 
 # 安全
 
@@ -121,6 +133,7 @@
 | 23   | [neargle/my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security) | 从零开始的 Kubernetes 攻防。该项目包含了作者在多处攻防场景，所遇到的云原生相关的漏洞挖掘和漏洞利用实例 | Shell      |
 | 24   | [wazuh/wazuh](https://github.com/wazuh/wazuh)                | `Wazuh`——免费开源的安全平台，集威胁预防、漏洞检测、风险响应、安全监控于一身，还提供了搜索引擎和数据可视化工具 | C          |
 | 25   | [PeiQi0/PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book) | `PeiQi` 文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，`CTF` 夺旗，红蓝对抗等多个安全方向，用于解决安全信息不聚合，安全资料不易找的难题。帮助网络安全从业者共同构建安全的互联网，快速验证并及时修复相关漏洞，为甲方等提出安全建设意见 |            |
+| 26   | [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) | 🕷 CrawlerDetect 是一个 PHP 类，用于通过用户代理检测机器人/爬虫/蜘蛛 | PHP        |
 
 # 运维
 
@@ -582,10 +595,24 @@
 | 454 | [instructure/dynamo-local-admin-docker](https://github.com/instructure/dynamo-local-admin-docker) | 与 DynamoDB-Local 和 dynamo-admin 组合的 docker 镜像 | |
 | 455 | [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) | 经过修改的 Web 浏览器，有助于响应式 Web 开发。Web 开发人员必须拥有的开发工具 | JavaScript |
 | 456 | [krallin/tini](https://github.com/krallin/tini) | 一个微小但有效的容器“init” | C |
-| 457 |  |  | |
-| 458 |  |  | |
-| 459 |  |  | |
-| 460 |  |  | |
+| 457 | [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker) | 该项目包含一个 Docker 镜像，旨在方便部署 Nacos | Shell |
+| 458 | [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) | 轻量级网络 IP 扫描器。可用于通知新主机并监控主机在线/离线历史记录 | Go |
+| 459 | [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。GitHub 上很酷、有趣的项目列表 | |
+| 460 | [TEParsons/Krafty](https://github.com/TEParsons/Krafty) | Typora 的 Krafty CSS 主题 - 旨在模仿牛皮纸笔记本的外观 | CSS |
+| 461 | [lencx/ChatGPT](https://github.com/lencx/ChatGPT) | 🔮 ChatGPT 桌面应用程序（Mac、Windows 和 Linux） | Rust |
+| 462 | [xcatliu/pagic](https://github.com/xcatliu/pagic) | 由 Deno + React 提供支持的静态站点生成器 | JavaScript |
+| 463 | [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | 使用 IPsec/L2TP、Cisco IPsec 和 IKEv2 构建您自己的 IPsec VPN 服务器的脚本 | Shell |
+| 464 | [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) | 用于运行 IPsec VPN 服务器的 Docker 映像，带有 IPsec/L2TP、Cisco IPsec 和 IKEv2 | Shell |
+| 465 | [tazbin/docker-formatter](https://github.com/tazbin/docker-formatter) | 这会格式化 Docker 命令（例如“docker ps”和“docker ps -a”）的输出。该工具增强了可读性，使输出更易于解析和使用 | Go |
+| 466 | [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) | Nginx 的另一个 WebUI | Vue |
+| 467 | [Dunqing/resume](https://github.com/Dunqing/resume) | 使用 Markdown 编写简历，支持部署到 Vercel、Netlify、Cloudflare。 使用 Markdown 编写的简历，支持部署到 Vercel、Netlify 和 Cloudflare | TypeScript |
+| 468 |  |  |  |
+| 469 |  |  |  |
+| 470 |  |  |  |
+| 471 |  |  |  |
+| 472 |  |  |  |
+| 473 |  |  |  |
+| 474 |  |  |  |
 # 大数据
 
 | #    | 存储库                                                       | 注释                                                         | 语言       |
