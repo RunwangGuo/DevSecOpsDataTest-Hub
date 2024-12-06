@@ -79,7 +79,18 @@
 | 72   | [ant-design/ant-motion](https://github.com/ant-design/ant-motion) | Ant Design 的 Animate 规格及组件                             | JavaScript |
 | 73   | [chvin/react-tetris](https://github.com/chvin/react-tetris)  | 使用 React、Redux、Immutable 编写俄罗斯方块                  | JavaScript |
 | 74   | [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) | `Vue3+Vite4+Element-Plus+TypeScript` 编写的一款后台管理系统（兼容移动端） | Vue        |
-|      |                                                              |                                                              |            |
+| 75   | [alibaba/f2e-spec](https://github.com/alibaba/f2e-spec)      | 阿里巴巴前端编码指南及相关工具                               | JavaScript |
+| 76   | [kataras/iris](https://github.com/kataras/iris)              | 最快的 HTTP/2 Go Web 框架。全新、现代且易于学习。使用您控制的代码快速开发。无与伦比的性价比 | Go         |
+| 77   | [auth0/go-jwt-middleware](https://github.com/auth0/go-jwt-middleware) | Go 编程语言的中间件，用于检查 HTTP 请求中的 JWT              | Go         |
+| 78   | [golang/oauth2](https://github.com/golang/oauth2)            | Go OAuth2                                                    | Go         |
+| 79   | [uber-go/zap](https://github.com/uber-go/zap)                | 使用 Go 进行速度极快、结构化、分级的日志记录                 | Go         |
+| 80   | [auth0-samples/auth0-golang-web-app](https://github.com/auth0-samples/auth0-golang-web-app) | Go Web 应用程序的 Auth0 集成示例                             | Go         |
+| 81   | [auth0-samples/auth0-react-samples](https://github.com/auth0-samples/auth0-react-samples) | React 应用程序的 Auth0 集成示例                              | JavaScript |
+| 82   | [alibaba/easyexcel](https://github.com/alibaba/easyexcel)    | 快速、简洁、解决大文件内存溢出的java处理Excel工具            | Java       |
+| 83   | [dunizb/wxapp-sCalc](https://github.com/dunizb/wxapp-sCalc)  | 微信小程序版简易计算器demo，适合入门练手                     | JavaScript |
+| 84   | [jgm/pandoc](https://github.com/jgm/pandoc)                  | 通用标记转换器                                               | Haskell    |
+| 85   |                                                              |                                                              |            |
+| 86   |                                                              |                                                              |            |
 
 # 安全
 
@@ -552,15 +563,29 @@
 | 435 | [AutoMeter/AutoMeter-API](https://github.com/AutoMeter/AutoMeter-API) | 一款针对分布式服务，微服务 API 做功能和性能一体化的自动化测试平台,一站式提供项目管理，微服务，API 接口，用例，环境管理，测试管理，前置条件，测试集合，变量管理，测试计划，Mock，测试报告等 | HTML |
 | 436 | [zmops/ArgusDBM](https://github.com/zmops/ArgusDBM) | Argus 开源数据库一体化监控平台。致力于监控所有数据库 | Java |
 | 437 | [1943time/inkdown](https://github.com/1943time/inkdown) | 一个开源的所见即所得 Markdown 编辑器，使用了 `GitHub Flavored Markdown` 标准，同时扩展了 [Mermaid (opens new window)](https://mermaid.js.org/)图形与 [Katex (opens new window)](https://katex.org/)公式，支持明亮和暗黑风格，目标为提高 Markdown 编辑与阅读体验 | TypeScript |
-| 438 |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 438 | [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) | NextTrace，一个开源的可视化路线跟踪 CLI 工具 | Go |
+| 439 | [koordinator-sh/koordinator](https://github.com/koordinator-sh/koordinator) | 基于QoS的调度系统为微服务、Web服务、大数据作业、AI作业等工作负载带来最佳的布局和状态。 | Go |
+| 440 | [gocrane/crane](https://github.com/gocrane/crane) | Crane 是一个用于 Kubernetes 集群中云资源分析和经济学的 FinOps 平台。其目标不仅是帮助用户更轻松地管理云成本，而且还能确保应用程序的质量。 | Go |
+| 441 | [helm/helm](https://github.com/helm/helm) | Kubernetes 包管理器 | Go |
+| 442 | [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) | XIAOJUSURVEY 是一个企业表单生成器和分析平台，允许用户在线创建问卷、考试、民意调查、测验和分析数据。 | TypeScript |
+| 443 | [rajnandan1/kener](https://github.com/rajnandan1/kener) | Kener 是一个现代自托管状态页面，包含电池 | JavaScript |
+| 444 | [filegator/filegator](https://github.com/filegator/filegator) | 强大的多用户文件管理器 | PHP |
+| 445 | [ops-coffee/nav](https://github.com/ops-coffee/nav) | 咖啡吧导航 | HTML |
+| 446 | [lework/lenav](https://github.com/lework/lenav) | 一个无可奈何的公司内部网址导航站，省去各处找服务地址的烦恼…… | Vue |
+| 447 | [hello-nav/hello-nav](https://github.com/hello-nav/hello-nav) | 纯前端开发导航 | TypeScript |
+| 448 | [tznb1/TwoNav](https://github.com/tznb1/TwoNav) | TwoNav第二代云导航、云书签管理系统 | PHP |
+| 449 | [luiscib3r/shortly](https://github.com/luiscib3r/shortly) | 使用 golang 和 react 的 URL 缩短器 | Go |
+| 450 | [mehulgohil/shorti.fy](https://github.com/mehulgohil/shorti.fy) | URL 缩短服务 | Go |
+| 451 | [asxez/DDCS](https://github.com/asxez/DDCS) | Docker 汉化脚本 DockerDesktop 汉化脚本 Docker 汉化脚本 Docker Windows Docker MAC | Python |
+| 452 | [Arattian/DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client) | DynamoDb GUI 客户端 | Vue |
+| 453 | https://github.com/aaronshaf/dynamodb-admin | GUI for DynamoDB Local or dynalite | EJS |
+| 454 | [instructure/dynamo-local-admin-docker](https://github.com/instructure/dynamo-local-admin-docker) | 与 DynamoDB-Local 和 dynamo-admin 组合的 docker 镜像 | |
+| 455 | [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) | 经过修改的 Web 浏览器，有助于响应式 Web 开发。Web 开发人员必须拥有的开发工具 | JavaScript |
+| 456 | [krallin/tini](https://github.com/krallin/tini) | 一个微小但有效的容器“init” | C |
+| 457 |  |  | |
+| 458 |  |  | |
+| 459 |  |  | |
+| 460 |  |  | |
 # 大数据
 
 | #    | 存储库                                                       | 注释                                                         | 语言       |
