@@ -1,0 +1,25 @@
+# docker-compose up -d
+
+services:
+  db:
+    image: mysql:8.0
+    container_name: mysql-repohub
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: repohub
+      TZ: Asia/Shanghai
+    ports:
+      - "3306:3306"
+
+  phpmyadmin:
+    image: phpmyadmin
+    container_name: phpmyadmin-repohub
+    restart: always
+    ports:
+      - "8080:80"
+    environment:
+      PMA_HOST: db
+      PMA_USER: root
+      PMA_PASSWORD: root
+      TZ: Asia/Shanghai
