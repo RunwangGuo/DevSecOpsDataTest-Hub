@@ -1,5 +1,3 @@
-# docker-compose up -d
-
 services:
   db:
     image: mysql:8.0
