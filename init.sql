@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- 主机： db
--- 生成日期： 2024-12-15 18:05:28
+-- 生成日期： 2024-12-16 19:00:04
 -- 服务器版本： 8.0.40
 -- PHP 版本： 8.2.26
 
@@ -682,7 +682,9 @@ INSERT INTO `repos` (`id`, `repository`, `comment`, `language`, `category`, `is_
 (1009, 'https://github.com/GitHubDaily/GitHubDaily', '坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。GitHub 上很酷、有趣的项目列表', '', '资源合集', 0, 1),
 (1010, 'https://github.com/TEParsons/Krafty', 'Typora 的 Krafty CSS 主题 - 旨在模仿牛皮纸笔记本的外观', 'CSS', '主题', 0, 1),
 (1011, 'https://github.com/lencx/ChatGPT', '🔮 ChatGPT 桌面应用程序（Mac、Windows 和 Linux）', 'Rust', '应用程序', 0, 1),
-(1012, 'https://github.com/xcatliu/pagic', '由 Deno + React 提供支持的静态站点生成器', 'JavaScript', '静态站点生成器', 0, 1);
+(1012, 'https://github.com/xcatliu/pagic', '由 Deno + React 提供支持的静态站点生成器', 'JavaScript', '静态站点生成器', 0, 1),
+(1013, 'https://github.com/tandpfun/skill-icons', '轻松在 Github readme 或简历上展示你的技能', 'SVG', 'GitHub个人资料', 1, 3),
+(1014, 'https://github.com/irfaan008/simple-skill-icons', '使用 GitHub 或简历上的 2500 多个图标展示您的技能', 'JavaScript', 'GitHub个人资料', 1, 3);
 
 --
 -- 转储表的索引
@@ -702,7 +704,7 @@ ALTER TABLE `repos`
 -- 使用表AUTO_INCREMENT `repos`
 --
 ALTER TABLE `repos`
-  MODIFY `id` int NOT NULL AUTO_INCREMENT COMMENT '唯一标识，主键，自动递增', AUTO_INCREMENT=1013;
+  MODIFY `id` int NOT NULL AUTO_INCREMENT COMMENT '唯一标识，主键，自动递增', AUTO_INCREMENT=1015;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
